@@ -41,7 +41,9 @@ The objective of this Webpage / Repository is to provide an open database for tu
   
     Regulamento de Inspeção e Certificação e o Regulamento Técnico e de Qualidade
     
-    
+* Outros documentos
+ * [Seminário "Como criar comunidades de energia"](https://www.youtube.com/watch?v=TJt7GP-mCgE)
+   Seminário decorrido na FEUP a 04/02. [Programa](https://campanhas.voltimum.pt/comunidadesdeenergia/)  
 
 ## Science and Engineering
 
