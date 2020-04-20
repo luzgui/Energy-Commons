@@ -5,10 +5,9 @@
 The objective of this Webpage / Repository is to provide an open database for tutorials, computational tools, software implementions, research papers, books and articles on the various aspects of the ongoing energy transition.
 
 
-## The politics of Energy Transition
+ <!--## The politics of Energy Transition
 
-### Law and Regulation
-#### Autoconsumo Coletivo e Comunidades de Energia (Portugal)
+### Law and Reg o Coletivo e Comunidades de Energia (Portugal)
 
 
 
