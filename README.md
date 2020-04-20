@@ -7,7 +7,9 @@ The objective of this Webpage / Repository is to provide an open database for tu
 
  <!--## The politics of Energy  -->
 
-### Law and Reg o Coletivo e Comunidades de Energia (Portugal)
+### Law and Regulation
+
+#### Autoconsumo Coletivo e Comunidades de Energia (Portugal)
 
 
 
