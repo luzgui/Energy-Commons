@@ -25,9 +25,11 @@ The objective of this Webpage / Repository is to provide an open database for tu
 * **Regulação ERSE**
 
   * [Regulamento n.º 266/2020](https://dre.pt/application/conteudo/130469272)
+    
     Aprova o Regulamento do Autoconsumo de Energia Elétrica.
 
   * [Diretiva n.º 5/2020](https://dre.pt/application/conteudo/130469271)
+    
     Tarifas de Acesso às Redes a aplicar ao autoconsumo de energia elétricaatravés da RESP em 2020
 
     * Documentos referentes à consulta publica nº82 (Regulamento 266/2020)
