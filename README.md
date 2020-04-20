@@ -15,5 +15,7 @@ The objective of this Webpage / Repository is to provide an open database for tu
 #### Portugal
 
 * [Decreto-Lei n.º 162/2019](https://dre.pt/pesquisa/-/search/125692189/details/maximized)
+
 Aprova o regime jurídico aplicável ao autoconsumo de energia renovável
-[Download](https://dre.pt/application/conteudo/125692189)
+
+[Download here](https://dre.pt/application/conteudo/125692189)
