@@ -44,7 +44,9 @@ The objective of this Webpage / Repository is to provide an open database for tu
 * Outros documentos
   * Seminário ["Como criar comunidades de energia"](https://www.youtube.com/watch?v=TJt7GP-mCgE) [Video] 
    
-    Seminário decorrido na FEUP a 04/02. [Programa](https://campanhas.voltimum.pt/comunidadesdeenergia/)  
+    Seminário decorrido na FEUP a 04/02. [Programa](https://campanhas.voltimum.pt/comunidadesdeenergia/) 
+    
+  * Revista [Renováveis Magazine](https://www.renovaveismagazine.pt/) Edição nº 41 [Download Aqui](https://www.renovaveismagazine.pt/revista-2/)
 
 ## Science and Engineering
 
