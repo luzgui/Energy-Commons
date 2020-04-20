@@ -29,7 +29,7 @@ The objective of this Webpage / Repository is to provide an open database for tu
     
     Tarifas de Acesso às Redes a aplicar ao autoconsumo de energia elétricaatravés da RESP em 2020
 
-    * Documentos referentes à consulta publica nº82 (Regulamento 266/2020)
+  * Documentos referentes à consulta publica nº82 (Regulamento 266/2020)
 
       * [Comentários da diversas entidades](https://www.erse.pt/atividade/consultas-publicas/consulta-p%C3%BAblica-n-%C2%BA-82/comentarios/)
 
