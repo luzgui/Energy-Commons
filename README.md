@@ -47,7 +47,10 @@ The objective of this Webpage / Repository is to provide an open database for tu
     Seminário decorrido na FEUP a 04/02. [Programa](https://campanhas.voltimum.pt/comunidadesdeenergia/) 
     
   * Revista [Renováveis Magazine](https://www.renovaveismagazine.pt/) Edição nº 41 ([Download Aqui](https://www.renovaveismagazine.pt/revista-2/))
-    Contem um especial autoconsumo coletivo com diversos artigos de interesse
+    Contem um especial autoconsumo coletivo com diversos artigos de interesse:
+     * autoconsumo coletivo: o fator de escala que faltava ao fotovoltaico residencial? (Rodrigo Amaro e Silva, Francisco Carvalho)
+     * autoconsumo e comunidades de energia (Margarida Ramires)
+     * autoconsumo coletivo – primeiros passos   para a sua concretização (Paulo Oliveira, Pedro Costa e Jorge Esteves)
 
 ## Science and Engineering
 
