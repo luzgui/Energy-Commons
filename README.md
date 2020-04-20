@@ -5,10 +5,6 @@
 The objective of this Webpage / Repository is to provide an open database for tutorials, computational tools, software implementions, research papers, books and articles on the various aspects of the ongoing energy transition.
 
 
-## Science and Engineering
-
-## Software and Programming
-
 ## The politics of Energy Transition
 
 ### Law and Regulation
@@ -43,3 +39,9 @@ The objective of this Webpage / Repository is to provide an open database for tu
   * [Despacho n.º 4/2020](http://www.dgeg.gov.pt/?cn=636364478673AAAAAAAAAAAA)
   
     Regulamento de Inspeção e Certificação e o Regulamento Técnico e de Qualidade
+    
+    
+
+## Science and Engineering
+
+## Software and Programming
