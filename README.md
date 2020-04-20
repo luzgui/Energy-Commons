@@ -52,6 +52,9 @@ The objective of this Webpage / Repository is to provide an open database for tu
      * Autoconsumo e comunidades de energia (Margarida Ramires)
      * Autoconsumo coletivo – primeiros passos para a sua concretização (Paulo Oliveira, Pedro Costa e Jorge Esteves)
 
+<!--
+
 ## Science and Engineering
 
 ## Software and Programming
+-->
