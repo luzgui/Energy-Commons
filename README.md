@@ -34,6 +34,8 @@ Repository and open database for tutorials, computational tools, software implem
       * [Comentários da diversas entidades](https://www.erse.pt/atividade/consultas-publicas/consulta-p%C3%BAblica-n-%C2%BA-82/comentarios/)
 
       * [Sintese de comentário](https://www.erse.pt/media/40pdir3g/cp82_sintesecomentarios.pdf)
+      
+      * [Documento justificativo](https://www.erse.pt/media/ejddjnul/cp82_docjustificativo.pdf)
 
 * **Documentos DGEG**
 
