@@ -6,7 +6,7 @@ Repository and open database for tutorials, computational tools, software implem
 
 
  <!--## The politics of Energy  -->
-[LINKY](SaoLuis.md)
+[LINKY](Law.md)
 ### Law and Regulation
 
 #### Autoconsumo Coletivo e Comunidades de Energia (Portugal)
