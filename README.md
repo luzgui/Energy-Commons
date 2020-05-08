@@ -6,7 +6,7 @@
 
 Repositorio e base de dados aberta para tutoriais, ferramentas computacionais, economia e poltica da Transição Energética
 
-![imagem](Schneebergerhof_01.jpg "titulo")
+![imagem](DSCF6370.JPG "Transição energética em São Luis")
 
 
  <!--## The politics of Energy  -->
