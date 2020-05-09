@@ -5,7 +5,7 @@
 <!--Repository and open database for tutorials, computational tools, software implementions, technical documents, research papers, books and articles on the various aspects of the ongoing energy transition.-->
 
 <!--Repositorio e base de dados aberta para tutoriais, ferramentas computacionais, economia e poltica da Transição Energética
-
+-->
 
 # Caminhos para a Transição Energética na Freguesia de São Luís
 
