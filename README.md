@@ -7,7 +7,9 @@
 <!--Repositorio e base de dados aberta para tutoriais, ferramentas computacionais, economia e poltica da Transição Energética
 -->
 
-# Caminhos para a Transição Energética na Freguesia de São Luís, Odemira
+# Caminhos para um novo modelo energético na Freguesia de São Luís, Odemira
+
+## Workshop Virtual - 9 Maio
 
 ![imagem](DSCF6370.JPG "Transição energética em São Luis")
 
