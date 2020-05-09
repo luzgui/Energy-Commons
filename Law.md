@@ -12,13 +12,13 @@ Repository and open database for tutorials, computational tools, software implem
 
 
 
-### Decreto-Lei**
+### Decreto-Lei
 
   * [Decreto-Lei n.º 162/2019](https://dre.pt/pesquisa/-/search/125692189/details/maximized)
 
     Aprova o regime jurídico aplicável ao autoconsumo de energia renovável ([Documento](https://dre.pt/application/conteudo/125692189))
 
-* **Regulação ERSE**
+### Regulação ERSE
 
   * [Regulamento n.º 266/2020](https://dre.pt/application/conteudo/130469272)
     
@@ -36,13 +36,13 @@ Repository and open database for tutorials, computational tools, software implem
       
       * [Documento justificativo](https://www.erse.pt/media/ejddjnul/cp82_docjustificativo.pdf)
 
-* **Documentos DGEG**
+### Documentos DGEG
 
   * [Despacho n.º 4/2020](http://www.dgeg.gov.pt/?cn=636364478673AAAAAAAAAAAA)
   
     Regulamento de Inspeção e Certificação e o Regulamento Técnico e de Qualidade
     
-* **Outros documentos**
+### Outros documentos
   * Seminário ["Como criar comunidades de energia"](https://www.youtube.com/watch?v=TJt7GP-mCgE) [Video] 
    
     Seminário decorrido na FEUP a 04/02. [Programa](https://campanhas.voltimum.pt/comunidadesdeenergia/) 
