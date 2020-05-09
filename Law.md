@@ -6,9 +6,9 @@ Repository and open database for tutorials, computational tools, software implem
 
  <!--## The politics of Energy  -->
 
-### Law and Regulation
+### Legislação e regulação em Portugal
 
-#### Autoconsumo Coletivo e Comunidades de Energia (Portugal)
+#### Autoconsumo Coletivo e Comunidades de Energia
 
 
 
