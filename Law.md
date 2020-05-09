@@ -6,13 +6,13 @@ Repository and open database for tutorials, computational tools, software implem
 
  <!--## The politics of Energy  -->
 
-### Legislação e regulação em Portugal
+# Legislação e regulação em Portugal
 
-#### Autoconsumo Coletivo e Comunidades de Energia
+## Autoconsumo Coletivo e Comunidades de Energia
 
 
 
-* **Decreto-Lei**
+### Decreto-Lei**
 
   * [Decreto-Lei n.º 162/2019](https://dre.pt/pesquisa/-/search/125692189/details/maximized)
 
