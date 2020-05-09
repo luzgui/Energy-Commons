@@ -18,7 +18,8 @@
 ### Modelação e simulação do sistema elétrico da freguesia de São Luis
 * [Descarregar o relatório](Relatório_SLuis_Final.pdf)
 * [Descarregar a apresentação](Sessão_SLuis_PROSEU_9Maio.pdf)
-* Ferramenta de modelação usada: [Calliope](https://www.callio.pe/)
+* Ferramenta de modelação usada: [calliope](https://www.callio.pe/)
+ * Exemplos de outros casos de estudo: [Galeria de modelos calliope](https://www.callio.pe/model-gallery/)
 
 ### Legislação e Regulação em Portugal
 
