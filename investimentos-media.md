@@ -15,24 +15,78 @@ Repository and open database for tutorials, computational tools, software implem
 <summary> <span style="font-size:18px;"> Iniciativas privadas </span></summary>
 <ul>
 
+<li> <a href="https://www.sunenergy.pt/sunenergy-instala-solucao-de-autoconsumo-na-frutalmente/">SunEnergy instala solução de autoconsumo na Frutalmente</a> (sunenergy, 11/2014) </li>
+
+<li> <a href="https://www.sunenergy.pt/sunenergy-instala-mais-de-800-paineis-na-natural-stone/">SunEnergy instala projeto de autoconsumo na Fábrica de Arroz de Gatões</a> (sunenergy, 04/2015) </li>
+
+<li> <a href="https://www.sunenergy.pt/sunenergy-instala-mais-de-800-paineis-na-natural-stone/">SunEnergy instala mais de 800 painéis na Natural Stone</a> (sunenergy, 07/2015) </li>
+
 <li> <a href="https://www.dinheirovivo.pt/outras/lojas-ikea-em-portugal-vao-produzir-energia-solar/">Lojas Ikea em Portugal vão produzir energia solar</a> (Dinheiro Vivo, 12/2015) </li>
+
+<li> <a href="https://www.sunenergy.pt/novo-quartel-dos-bombeiros-de-cuba-ira-funcionar-a-energia-solar/">Novo quartel dos Bombeiros de Cuba irá funcionar a energia solar</a> (sunenergy, 04/2016) </li>
+
+<li> <a href="https://www.sunenergy.pt/unidade-de-autoconsumo-instalada-em-restaurante/">SunEnergy instala 96 painéis solares na Biomaduro</a> (sunenergy, 04/2016) </li>
+
+<li> <a href="https://www.sunenergy.pt/unidade-de-autoconsumo-instalada-em-restaurante/">Unidade de autoconsumo instalada em restaurante</a> (sunenergy, 05/2016) </li>
+
+<li> <a href="https://www.sunenergy.pt/sunenergy-instala-unidade-de-autoconsumo-com-1-040-paineis-fotovoltaicos-na-fabrica-da-triangle-s/">SunEnergy instala unidade de autoconsumo com 1.040 painéis fotovoltaicos na fábrica da Triangle's</a> (sunenergy, 07/2016) </li>
+
+<li> <a href="https://www.sunenergy.pt/autoconsumo-em-exploracao-agricola/">Autoconsumo em exploração agrícola</a> (sunenergy, 09/2016) </li>
+
+<li> <a href="https://www.sunenergy.pt/mais-um-grande-projeto-de-autoconsumo-em-agueda/">Mais um grande projeto de autoconsumo em Águeda</a> (sunenergy, 09/2016) </li>
+
+<li> <a href="https://www.sunenergy.pt/novo-projeto-de-autoconsumo-agora-em-cantanhede/">Novo projeto de autoconsumo, agora em Cantanhede</a> (sunenergy, 11/2016) </li>
+
+<li> <a href="https://www.sunenergy.pt/sunenergy-executa-um-dos-maiores-projetos-de-autoconsumo-a-nivel-nacional/">SunEnergy executa um dos maiores projetos de autoconsumo a nível nacional</a> (sunenergy, 01/2017) </li>
+
+<li> <a href="https://www.sunenergy.pt/cooperativa-vai-poupar-22-mil-euros-por-ano-e-ser-mais-sustentavel/">Cooperativa vai poupar 22 mil euros por ano e ser mais sustentável</a> (sunenergy, 05/2017) </li>
+
+<li> <a href="https://www.sunenergy.pt/sunenergy-instala-240-paineis-solares-na-vfa-lider-nacional-de-produtos-de-natacao/">SunEnergy instala 240 painéis solares na VFA, líder nacional de produtos para natação</a> (sunenergy, 06/2017) </li>
+
+<li> <a href="https://www.sunenergy.pt/sunenergy-chega-a-acordo-com-o-grupo-hoteleiro-mh-hotels-de-peniche/">SunEnergy chega a acordo para instalar 520 painéis solares fotovoltaicos em Hotel de Peniche</a> (sunenergy, 06/2017) </li>
+
+<li> <a href="https://www.sunenergy.pt/sunenergy-equipa-oito-pontos-de-venda-da-litocar-no-centro-do-pais/">SunEnergy equipa oito pontos de venda da Litocar no centro do país</a> (sunenergy, 09/2017) </li>
+
+<li> <a href="https://www.sunenergy.pt/sunenergy-instala-840-paineis-solares-na-epalfer/">SunEnergy instala 840 painéis solares na EPALFER</a> (sunenergy, 10/2017) </li>
+
+<li> <a href="https://www.sunenergy.pt/sunenergy-ajuda-ciclofapril-poupar-25-000e-ano/">SunEnergy permite poupança anual de 40.000€ à FRUTITAIPINA</a> (sunenergy, 11/2017) </li>
+
+<li> <a href="https://www.sunenergy.pt/sunenergy-ajuda-ciclofapril-poupar-25-000e-ano/">SunEnergy ajuda CicloFapril a poupar 25.000€ por ano</a> (sunenergy, 12/2017) </li>
+
+<li> <a href="https://www.sunenergy.pt/sunenergy-desenvolve-projeto-inovador-na-uartronica/">SunEnergy desenvolve projeto inovador na UARTRÓNICA</a> (sunenergy, 03/2018) </li>
+
+<li> <a href="https://www.sunenergy.pt/sunenergy-instala-paineis-solares-nas-caves-messias/">SunEnergy instala painéis solares nas Caves Messias</a> (sunenergy, 04/2018) </li>
 
 <li> <a href="https://www.sonae.pt/pt/media/press-releases/115-centrais-fotovoltaicas-alimentam-estruturas-da-sonae-mc/">115 centrais fotovoltaicas alimentam estruturas da Sonae MC</a> (Sonae, 05/2018) </li>
 
 <li> <a href="https://www.tribunaalentejo.pt/artigos/pegoes-vai-ter-ceramica-energia-100-fotovoltaica">Pegões vai ter cerâmica a energia 100% fotovoltaica</a> (Tribuna Alentejo, 06/2018) </li>
 
+<li> <a href="https://www.sunenergy.pt/aposta-na-energia-solar-vai-permitir-poupanca-significativa-a-grafica-ideal-de-agueda/">Aposta na energia solar vai permitir poupança significativa à Gráfica Ideal de Águeda</a> (sunenergy, 06/2018) </li>
+
+<li> <a href="https://www.sunenergy.pt/espaco-inovacao-em-oliveira-do-bairro-inova-com-a-ajuda-da-sunenergy/">Espaço Inovação inova no Autoconsumo com a ajuda da SunEnergy</a> (sunenergy, 08/2018) </li>
+
 <li> <a href="https://greensavers.sapo.pt/crowdfunding-sustentavel-ajuda-ceramica-de-pegoes-a-evitar-180-toneladas-de-co2/
 ">Crowdfunding sustentável ajuda Cerâmica de Pegões a evitar 180 toneladas de CO2 por ano</a> (Green Savers, 10/2018) </li>
+
+<li> <a href="https://www.sunenergy.pt/sunenergy-instala-mais-de-1-100-paineis-solares-na-ramalhos/">Sunenergy instala mais de 1.100 painéis solares na Ramalhos</a> (sunenergy, 10/2018) </li>
+
+<li> <a href="https://www.sunenergy.pt/aramague-vai-poupar-20-mil-euros-por-ano-com-paineis-da-sunenergy/">Aramague poupa 20 mil euros ano com painéis da Sunenergy</a> (sunenergy, 11/2018) </li>
+
+<li> <a href="https://www.sunenergy.pt/santa-casa-da-mealhada-poupa-20-mil-euros-em-energia/">Santa Casa da Mealhada poupa 20 mil euros em energia</a> (sunenergy, 12/2018) </li>
 
 <li> <a href="https://gabrimat.pt/projetos/instalacao-de-paineis-solares-fotovoltaicos/">GABRIMAT: Instalação de painéis solares fotovoltaicos</a> (GABRIMAT, 11/2018) </li>
 
 <li> <a href="https://www.carmim.eu/noticias/carmim-inaugura-central-fotovoltaica/">CARMIM inaugura central fotovoltaica</a> (CARMIM, 12/2018) </li>
 
+<li> <a href="https://www.sunenergy.pt/torre-de-palma-wine-hotel-torna-se-energeticamente-sustentavel/">Torre de Palma Wine Hotel é energeticamente sustentável</a> (sunenergy, 02/2019) </li>
+
 <li> <a href="https://www.wattson.pt/2019/03/30/sport-alges-e-dafundo-com-paineis-solares-reduz-fatura-do-gas-em-metade/">Sport Algés e Dafundo com painéis solares reduz fatura do gás em metade</a> (WATTSON, 03/2019) </li>
 
-SunEnergy instala 170 painéis de autoconsumo com a Comunidade Intermunicipal da Região de Coimbra (CIM)
+<li> <a href="https://www.sunenergy.pt/leirimetal-poupa-atraves-de-unidade-de-autoconsumo-fotovoltaico/">Leirimetal poupa através de unidade de autoconsumo</a> (sunenergy, 03/2019) </li>
 
 <li> <a href="https://www.sunenergy.pt/paineis-solares-fotovoltaicos-eleclerc/">930 painéis solares fotovoltaicos vão permitir a hipermercado E.Leclerc poupar 42.000 euros por ano</a> (sunenergy, 05/2019)</li>
+
+<li> <a href="https://www.sunenergy.pt/santa-casa-da-misericordia-poupa-20-mil-euros-ano-em-energia/">Santa Casa da Misericórdia de Águeda vai poupar 20 mil euros por ano em energia</a> (sunenergy, 05/2019)</li>
 
 <li> <a href="https://www.sunenergy.pt/trincapeixe-poupa-ao-aderir-as-renovaveis/">SunEnergy leva mais uma empresa a poupar 12mil euros anuais após aderir às renováveis</a> (sunenergy, 06/2019)</li>
 
@@ -118,12 +172,20 @@ SunEnergy instala 170 painéis de autoconsumo com a Comunidade Intermunicipal da
 <summary> <span style="font-size:18px;">  Iniciativas públicas </span></summary>
 <ul>
 
-<li> <a href="https://www.jornaldenegocios.pt/economia/autarquias/detalhe/camara-de-lisboa-quer-ter-central-fotovoltaica-a-funcionar-em-2020">Um plano para pôr Lisboa na Liga dos Campeões da Energia Solar
-</a> (Jornal de Negócios, 07/2018) </li>
+<li> <a href="https://www.sunenergy.pt/sunenergy-ajuda-camara-municipal-de-agueda-a-poupar-mais-de-30-000eano/">SunEnergy ajuda Câmara Municipal de Águeda a poupar mais de 30.000€/ano</a> (sunenergy, 12/2016) </li>
+
+<li> <a href="https://www.sunenergy.pt/sunenergy-liga-a-camara-municipal-de-albergaria-a-velha-ao-sol/">SunEnergy liga a Câmara Municipal de Albergaria-a-Velha ao sol</a> (sunenergy, 07/2017) </li>
+
+<li> <a href="https://www.sunenergy.pt/sunenergy-vence-concurso-publico-do-municipio-da-figueira-da-foz/">SunEnergy vence concurso público do Município da Figueira da Foz</a> (sunenergy, 01/2018) </li>
+
+<li> <a href="https://www.sunenergy.pt/escola-superior-de-enfermagem-do-porto-escolhe-a-sunenergy-para-aposta-nas-energias-renovaveis/">ESEP escolhe a SunEnergy para aposta nas energias renováveis</a> (sunenergy, 05/2018) </li>
+
+<li> <a href="https://www.jornaldenegocios.pt/economia/autarquias/detalhe/camara-de-lisboa-quer-ter-central-fotovoltaica-a-funcionar-em-2020">Câmara de Lisboa quer ter central fotovoltaica a funcionar em 2020</a> (Jornal de Negócios, 07/2018) </li>
+
+<li> <a href="https://www.sunenergy.pt/instituto-politecnico-da-guarda-produz-150-000-kwh-por-ano-com-sunenergy/">Instituto Politécnico da Guarda produz 150.000 kWh por ano com a SunEnergy</a> (sunenergy, 10/2018) </li>
 
 <li> <a href="https://www.publico.pt/2019/03/19/local/noticia/plano-lisboa-liga-campeoes-energia-solar-1866026
-">Um plano para pôr Lisboa na Liga dos Campeões da Energia Solar
-</a> (Público, 03/2019) </li>
+">Um plano para pôr Lisboa na Liga dos Campeões da Energia Solar</a> (Público, 03/2019) </li>
 
 <li> <a href="https://www.sunenergy.pt/sunenergy-paineis-de-autoconsumo-comunidade-intermunicipal-regiao-de-coimbra-cim/">SunEnergy instala 170 painéis de autoconsumo com a Comunidade Intermunicipal da Região de Coimbra (CIM)</a> (sunenergy, 05/2019)</li>
 
