@@ -15,6 +15,8 @@ Repository and open database for tutorials, computational tools, software implem
 <summary> <span style="font-size:18px;"> Iniciativas privadas </span></summary>
 <ul>
 
+<li> <a href="https://grandeconsumo.com/montiqueijo-inaugura-unidade-fotovoltaica/">Montiqueijo inaugura unidade fotovoltaica</a> (Grande Consumo, 09/2014) </li>
+
 <li> <a href="https://www.sunenergy.pt/sunenergy-instala-solucao-de-autoconsumo-na-frutalmente/">SunEnergy instala solução de autoconsumo na Frutalmente</a> (sunenergy, 11/2014) </li>
 
 <li> <a href="https://www.sunenergy.pt/sunenergy-instala-mais-de-800-paineis-na-natural-stone/">SunEnergy instala projeto de autoconsumo na Fábrica de Arroz de Gatões</a> (sunenergy, 04/2015) </li>
