@@ -53,6 +53,8 @@ Repository and open database for tutorials, computational tools, software implem
 
 <li> <a href="https://www.sunenergy.pt/sunenergy-ajuda-ciclofapril-poupar-25-000e-ano/">SunEnergy permite poupança anual de 40.000€ à FRUTITAIPINA</a> (sunenergy, 11/2017) </li>
 
+<li> <a href="https://jornaleconomico.sapo.pt/noticias/edp-instala-3-700-paineis-solares-nos-edificios-do-millennium-bcp-230087">EDP instala 3.700 painéis solares nos edifícios do Millennium BCP</a> (Jornal Económico, 11/2017) </li>
+
 <li> <a href="https://www.sunenergy.pt/sunenergy-ajuda-ciclofapril-poupar-25-000e-ano/">SunEnergy ajuda CicloFapril a poupar 25.000€ por ano</a> (sunenergy, 12/2017) </li>
 
 <li> <a href="https://www.sunenergy.pt/sunenergy-desenvolve-projeto-inovador-na-uartronica/">SunEnergy desenvolve projeto inovador na UARTRÓNICA</a> (sunenergy, 03/2018) </li>
@@ -87,6 +89,8 @@ Repository and open database for tutorials, computational tools, software implem
 <li> <a href="https://www.sunenergy.pt/leirimetal-poupa-atraves-de-unidade-de-autoconsumo-fotovoltaico/">Leirimetal poupa através de unidade de autoconsumo</a> (sunenergy, 03/2019) </li>
 
 <li> <a href="https://www.sunenergy.pt/paineis-solares-fotovoltaicos-eleclerc/">930 painéis solares fotovoltaicos vão permitir a hipermercado E.Leclerc poupar 42.000 euros por ano</a> (sunenergy, 05/2019)</li>
+
+<li> <a href="https://www.barlavento.pt/destaque/acaso-conta-com-novo-parque-solar-e-autossuficiencia-energetica">ACASO conta com novo parque solar e autossuficiência energética</a> (barlavento, 05/2019)</li>
 
 <li> <a href="https://www.sunenergy.pt/santa-casa-da-misericordia-poupa-20-mil-euros-ano-em-energia/">Santa Casa da Misericórdia de Águeda vai poupar 20 mil euros por ano em energia</a> (sunenergy, 05/2019)</li>
 
