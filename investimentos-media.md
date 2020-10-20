@@ -169,6 +169,8 @@ Repository and open database for tutorials, computational tools, software implem
 
 <li> <a href="https://www.sunenergy.pt/sunenergy-instala-paineis-solares-no-hospital-infante-d-pedro/">SunEnergy instala 720 painéis solares no Hospital Infante D. Pedro</a> (Sun Energy, 09/2020)</li>
 
+<li> <a href="https://www.distribuicaohoje.com/destaques/intermarche-de-aljezur-instala-sistema-fotovoltaico-para-autoconsumo/">Intermarché de Aljezur instala sistema fotovoltaico para autoconsumo</a> (Distribuição Hoje, 09/2020)</li>
+
 </ul>
 </details>
 
@@ -219,6 +221,8 @@ Repository and open database for tutorials, computational tools, software implem
 <li> <a href="https://www.noticiasdeaveiro.pt/criacao-de-uma-comunidade-de-energia-renovavel-cer-piloto-em-aveiro/">Criação de uma Comunidade de Energia Renovável (CER) piloto em Aveiro</a> (Notícias de Aveiro, 09/2020)</li>
 
 <li> <a href="https://www.jornaldofundao.pt/economia/o-exemplo-das-berlengas-na-energia-renovavel/">O exemplo das Berlengas na energia renovável</a> (Jornal do Fundão, 10/2020)</li>
+
+<li> <a href="https://www.jornaldenegocios.pt/empresas/energia/detalhe/governo-quer-lancar-concurso-para-adjudicar-10mw-de-solar-em-regime-de-autoconsumo">Governo quer lançar concurso para adjudicar 10MW de solar em regime de autoconsumo</a> (Jornal de Negócios, 10/2020)</li>
 
 </ul>
 </details>
