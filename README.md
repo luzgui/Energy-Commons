@@ -7,9 +7,9 @@
 <!--Repositorio e base de dados aberta para tutoriais, ferramentas computacionais, economia e poltica da Transição Energética
 -->
 
-# Caminhos para um novo modelo energético na Freguesia de São Luís, Odemira
+<!-- # Caminhos para um novo modelo energético na Freguesia de São Luís, Odemira-->
 
-## Workshop Virtual - 9 Maio
+<!-- ## Workshop Virtual - 9 Maio -->
 
 ![imagem](DSCF6370.JPG "Transição energética em São Luis")
 
@@ -19,7 +19,7 @@
 * [Descarregar o relatório](Relatório_SLuis_Final.pdf)
 * [Descarregar a apresentação](Sessão_SLuis_PROSEU_9Maio.pdf)
 * Ferramenta de modelação usada: [calliope](https://www.callio.pe/)
- * Exemplos de outros casos de estudo: [Galeria de modelos calliope](https://www.callio.pe/model-gallery/)
+* Exemplos de outros casos de estudo: [Galeria de modelos calliope](https://www.callio.pe/model-gallery/)
 
 ### Legislação e Regulação em Portugal
 
