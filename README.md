@@ -23,9 +23,9 @@
 
 ### Legislação e Regulação em Portugal
 
-#### [Autoconsumo Coletivo e Comunidades de Energia](Law.md)
+#### [Autoconsumo Coletivo e Comunidades de Energia]((legislacao-regulamentos.md))
 
-#### [Legislação](legislacao-regulamentos.md)
+#### [Noticias dos Media](investimentos-media.md)
 
 
 <!--## Science and Engineering-->
