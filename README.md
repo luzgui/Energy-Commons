@@ -14,8 +14,8 @@
 ![imagem](DSCF6370.JPG "Transição energética em São Luis")
 
 
- <!--## The politics of Energy  
-### Modelação e simulação do sistema elétrico da freguesia de São Luis
+ <!--## The politics of Energy -->
+ <!-- ### Modelação e simulação do sistema elétrico da freguesia de São Luis
 * [Descarregar o relatório](Relatório_SLuis_Final.pdf)
 * [Descarregar a apresentação](Sessão_SLuis_PROSEU_9Maio.pdf)
 * Ferramenta de modelação usada: [calliope](https://www.callio.pe/)
