@@ -73,7 +73,7 @@ Repository and open database for tutorials, computational tools, software implem
 
 <li> <a href="http://trilhosenergeticos.pt/news/autoconsumo-na-tanoaria-j-dias-sa-em-esmoriz/">Unidade de autoconsumo instalada na Tanoaria J.Dias, SA, em Esmoriz</a> (Trilhos Energéticos, 10/2017)</li>
 
-<li> <a href="https://www.sunenergy.pt/sunenergy-ajuda-ciclofapril-poupar-25-000e-ano/">SunEnergy permite poupança anual de 40.000€ à FRUTITAIPINA</a> (sunenergy, 11/2017) </li>
+<li> <a href="https://www.sunenergy.pt/sunenergy-permite-poupanca-anual-40-000e-fruti-taipina/">SunEnergy permite poupança anual de 40.000€ à FRUTITAIPINA</a> (sunenergy, 11/2017) </li>
 
 <li> <a href="https://jornaleconomico.sapo.pt/noticias/edp-instala-3-700-paineis-solares-nos-edificios-do-millennium-bcp-230087">EDP instala 3.700 painéis solares nos edifícios do Millennium BCP</a> (Jornal Económico, 11/2017) </li>
 
