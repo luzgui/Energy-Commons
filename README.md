@@ -32,7 +32,6 @@
 
 
 
-<!--## Science and Engineering-->
+## Science and Engineering
 
-<!--## Software and Programming-->
-
+## Software and Programming
