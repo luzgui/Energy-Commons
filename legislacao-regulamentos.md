@@ -16,8 +16,8 @@ https://www.dgeg.gov.pt/pt/areas-setoriais/energia/energia-eletrica/producao-de-
 <br>
 <details open>
 <summary> <span style="font-size:18px; "> Legislação </span> </summary>
-<ul> 
-<li> <a href="https://dre.pt/pesquisa/-/search/125692189/details/maximized">Decreto-Lei n.º 162/2019</a>, publicado em Outubro de 2019 e que aprova o regime jurídico aplicável ao autoconsumo de energia renovável 
+<ul>
+<li> <a href="https://dre.pt/pesquisa/-/search/125692189/details/maximized">Decreto-Lei n.º 162/2019</a>, publicado em Outubro de 2019 e que aprova o regime jurídico aplicável ao autoconsumo de energia renovável
 
 <ul>
 <li>São introduzidos vários conceitos, tais como (<span style="color:red; ">por preencher</span>)</li>
@@ -38,7 +38,7 @@ https://www.dgeg.gov.pt/pt/areas-setoriais/energia/energia-eletrica/producao-de-
 <ul><details>
 <summary> <span style="font-size:16px; "> Entidade Reguladora dos Serviços Energéticos (ERSE) </span> </summary>
 
-<ul> 
+<ul>
 <li> <a href="https://dre.pt/application/conteudo/130469272">Regulamento 266/2020</a>, publicado em Março de 2020 e que regulamenta as atividades de autoconsumo de energia elétrica em Portugal
 
 <ul>
@@ -69,11 +69,3 @@ https://www.dgeg.gov.pt/pt/areas-setoriais/energia/energia-eletrica/producao-de-
 
 </details></ul>
 </details>
-
-<!--
-
-## Science and Engineering
-
-## Software and Programming
-
--->

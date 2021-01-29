@@ -9,15 +9,22 @@
 
 
 
-### Legislação e Regulação em Portugal
+
+## Law and Regulation
+
+### Portugal
 
 #### [Autoconsumo Coletivo e Comunidades de Energia](legislacao-regulamentos.md)
 
-* [Mais Informação](info-complementar.md)
+* [Artigos, Webinars, Seminários](info-complementar.md)
 
-### [Noticias dos Media](investimentos-media.md)
+* [Noticias dos Media](investimentos-media.md)
 
-### [Casos em Portugal](Casos-PT.md)
+* [Casos em Portugal](Casos-PT.md)
+
+### Europe
+
+
 
 ## Science and Engineering
 
