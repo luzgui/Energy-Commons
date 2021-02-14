@@ -10,6 +10,12 @@
 
 ![imagem](pics/books.jpg "Transição energética em São Luis")
 
+The objective of this site is to collect references (web sites, webinars, newspaper, magazine or research articles, software, datasets, computational models and others) on relevant issues for researchers, students and practitioners on energy related issues. Topics range from technical, scientific or engineering to economics, politics, law and regulation.
+
+Feel free to contribute by making q pull request or sending an [email](gpluz@fc.ul.pt) 
+
+
+
 ## Law and Regulation
 
 ### Portugal
