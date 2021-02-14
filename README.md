@@ -16,11 +16,7 @@ Feel free to contribute by making a pull request or sending an email to `gpluz@f
 
 
 
-## Law and Regulation
-
-### Portugal
-
-#### [Autoconsumo Coletivo e Comunidades de Energia](legislacao-regulamentos.md)
+### [Autoconsumo Coletivo e Comunidades de Energia](legislacao-regulamentos.md)
 
 * [Artigos, Webinars, Seminários](info-complementar.md)
 
@@ -28,10 +24,5 @@ Feel free to contribute by making a pull request or sending an email to `gpluz@f
 
 * [Casos em Portugal](Casos-PT.md)
 
-### Europe
 
-
-
-## Science and Engineering
-
-## Software and Programming
+### [Flexibility / Demand-Side Management / Demand-Response](flexibility.md)
