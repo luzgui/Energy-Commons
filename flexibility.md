@@ -30,10 +30,10 @@ This paper aims to support the development and harmonization of the CEC role wit
 
 ## Webinars / Seminars
 
-[Unlocking community based flexibility to transform the energy system - 1 (20-11-2020)](https://www.youtube.com/watch?v=Jq4PgnkSLM4)
+* m[Unlocking community based flexibility to transform the energy system - 1 (20- 11-2020)](https://www.youtube.com/watch?v=Jq4PgnkSLM4)
 Webinar explaining the concept of community-based flexibility, illustrated with hands-on experiences from energy communities in the field.
 
-[Unlocking community based flexibility to transform the energy system - 2 (29-01-2021)](https://www.rescoopvpp.eu/blog/webinar-recap-unlocking-community-based-flexibility-to-transform-the-energy-5774fd05-3a7c-4863-9a6f-a50403dfed8b)
+* [Unlocking community based flexibility to transform the energy system - 2 (29-01-2021)](https://www.rescoopvpp.eu/blog/webinar-recap-unlocking-community-based-flexibility-to-transform-the-energy-5774fd05-3a7c-4863-9a6f-a50403dfed8b)
 "How can citizens be engaged to take a more active role in balancing the grid?" This question was the starting point of our second community-based flexibility webinar. We dug into this question by sharing insights and hands-on experiences from cooperatives and people involved in the FLEXcoop project, which came to a close at the end of January.
 
 ## Other projects of interest
