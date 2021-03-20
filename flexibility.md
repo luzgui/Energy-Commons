@@ -30,13 +30,69 @@ This paper aims to support the development and harmonization of the CEC role wit
 
 ## Webinars / Seminars
 
-* m[Unlocking community based flexibility to transform the energy system - 1 (20- 11-2020)](https://www.youtube.com/watch?v=Jq4PgnkSLM4)
+* [Unlocking community based flexibility to transform the energy system - 1 (20- 11-2020)](https://www.youtube.com/watch?v=Jq4PgnkSLM4)
 Webinar explaining the concept of community-based flexibility, illustrated with hands-on experiences from energy communities in the field.
 
 * [Unlocking community based flexibility to transform the energy system - 2 (29-01-2021)](https://www.rescoopvpp.eu/blog/webinar-recap-unlocking-community-based-flexibility-to-transform-the-energy-5774fd05-3a7c-4863-9a6f-a50403dfed8b)
 "How can citizens be engaged to take a more active role in balancing the grid?" This question was the starting point of our second community-based flexibility webinar. We dug into this question by sharing insights and hands-on experiences from cooperatives and people involved in the FLEXcoop project, which came to a close at the end of January.
 
-## Other projects of interest
+* [Flexibility 2.1: From Demand Response to Renewable Energy Communities](https://www.youtube.com/watch?v=Ldvb-lIq1MY)\
+  Introduction to the research projects on flexibility
 
-* [Compile](https://www.compile-project.eu/)
+* Flexcoop Webinars and videos
+
+  * [Community-based Flexibility](https://www.youtube.com/watch?v=f5wiYSUGnk8)
+  * [EUW19](https://www.youtube.com/watch?v=URrhMFAMNBs)
+  * Intro to Demand Response
+    * [Part 1](https://www.youtube.com/watch?v=zSbnaYJh4cI&t=475s)
+    * [Part 2](https://www.youtube.com/watch?v=E06fLhrG5Ko)
+
+
+
+## Research Projects on flexibility
+
+* [Compile](https://www.compile-project.eu/)\
   The main aim of COMPILE is to show the opportunities of energy islands for decarbonisation of energy supply, community building and creating environmental and socioeconomic benefits.
+
+* [Respond](http://project-respond.eu/)\
+  integrated demand REsponse Solution towards energy POsitive NeighbourhooDs\
+  **There will be an article to be published**
+
+* [TABEDE](https://www.tabede.eu/)\
+  TowArds Building rEady for Demand rEsponse
+
+* [SMARTBUILT4EU](https://cordis.europa.eu/project/id/956936)\
+  The EU Smart Building Innovation Platform
+
+* [DELTA](https://www.delta-h2020.eu/)\
+  Future tamper-proof Demand rEsponse framework through seLf-configured, self-opTimized and collAborative virtual distributed energy nodes
+
+* [eDREAM](https://edream-h2020.eu/)\
+  enabling new Demand REsponse Advanced, Market oriented and Secure technologies, solutions and business models
+
+* [HOLISDER](http://holisder.eu/)\
+  Integrating Real-Intelligence in Energy Management Systems enabling Holistic Demand Response Optimization in Buildings and Districts
+
+* [SocialRES](https://socialres.eu)\
+  Fostering socially innovative and inclusive strategies for empowering citizens in the renewable energy market of the future
+
+* [HESTIA](https://www.pupin.rs/en/research-and-development-projects/european-rd-projects/hestia/)\
+  Holistic dEmand response Services for European residenTIAl communities
+
+* [CREATORS](https://www.creators4you.energy/)\
+  CREATing cOmmunity eneRgy Systems
+
+* [RENAISSANCE](https://www.renaissance-h2020.eu/)\
+  RENewAble Integration and SuStainAbility iN energy CommunitiEs
+
+* [E-LAND](https://zenodo.org/communities/e-land/?page=1&size=20)\
+  Integrated multi-vector management system for Energy isLANDs
+
+* [NEWCOMERS](https://www.newcomersh2020.eu/)\
+  New Clean Energy Communities in a Changing European Energy System
+
+* [REACT](https://react2020.eu/)\
+  Renewable Energy for self-sustAinable island CommuniTies
+
+* [IElectrix](https://ielectrix-h2020.eu/)\
+  Indian and European Local Energy Communities For Renewable Integration and the Energy Transition
