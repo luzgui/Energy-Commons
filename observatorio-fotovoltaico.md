@@ -12,7 +12,10 @@
 ### <a href="https://app.powerbi.com/view?r=eyJrIjoiNTY0MDgxZWQtOGZhMi00ZWVkLTgwYjMtOTk2ZGIzY2QyMGFlIiwidCI6IjBiZmE4NTAwLWIxZjItNDU2Ni1iYWYxLTZmNTkzNzA4OTNlNyIsImMiOjh9&pageName=ReportSection3aef81d4ad9a6bde8430" target="_blank">Dashboard (colaboração DGEG)</a>
 Análise aos registos de instalações fotovoltaicas da Direção Geral de Energia e Geologia (DGEG). <br>
 Estes registos estão desagregados ao nível mensal (tempo) e NUTSIII (espaço). <br>
-De momento apenas estão abrangidas Unidades de Pequena Produção e sistemas para autoconsumo. <br> <br>
+De momento apenas estão abrangidas Unidades de Pequena Produção e sistemas para autoconsumo. <br> 
+
+![imagem](pics/dashboard_print.png)
+<br>
 
 ### [Projetos fotovoltaicos nos *media*](projetos-fotovoltaicos-media.md)
 Conteúdo disponível em meios de comunicação tradicionais, páginas web de empresas do setor, Facebook e LinkedIn. <br> <br>
@@ -20,7 +23,10 @@ Conteúdo disponível em meios de comunicação tradicionais, páginas web de em
 ### [Mapeamento de projetos fotovoltaicos](https://maphub.net/rasilva/mapa-de-instalacoes-de-autoconsumo-fotovoltaico)
 Georreferenciação dos projetos identificados na secção anterior [em desenvolvimento]. <br>
 Apesar de menos completo que os registos da DGEG, oferece maior detalhe (em termos de localização e aplicação). <br>
-Ainda em desenvolvimento, considerando algumas instalações de autoconsumo. <br> <br>
+Ainda em desenvolvimento, considerando algumas instalações de autoconsumo. <br> 
+
+![imagem](pics/maphub_print_v3.png)
+<br>
 
 ### [Materiais variados sobre energia fotovoltaica](materiais-variados.md)
 Textos, webinars, seminários e conferências de divulgação e discussão, quer portugueses ou internacionais. <br>
