@@ -25,7 +25,7 @@ Georreferenciação dos projetos identificados na secção anterior [em desenvol
 Apesar de menos completo que os registos da DGEG, oferece maior detalhe (em termos de localização e aplicação). <br>
 Ainda em desenvolvimento, considerando algumas instalações de autoconsumo. <br> 
 
-![imagem](pics/maphub_print_v3.png)
+![imagem](pics/maphub_print.png)
 <br>
 
 ### [Materiais variados sobre energia fotovoltaica](materiais-variados.md)
