@@ -1,7 +1,10 @@
-# Título a definir
+# Materiais variados sobre energia fotovoltaica
 
-<details>
-<summary> <span style="font-size:20px;">Textos (?) </span></summary>
+Textos, webinars, seminários e conferências de divulgação e discussão, quer portugueses ou internacionais. <br>
+De momento é apenas abrangido o tema do autoconsumo coletivo e comunidades energéticas. <br> <br>
+
+<details open>
+<summary> <span style="font-size:20px;">Textos </span></summary>
 <ul>
 
 <li>
@@ -11,6 +14,7 @@ Revista <a href="https://www.renovaveismagazine.pt/">Renováveis Magazine</a> Ed
 <li> Autoconsumo coletivo: o fator de escala que faltava ao fotovoltaico residencial? (Rodrigo Amaro e Silva, Francisco Carvalho)</li>
 <li> Autoconsumo e comunidades de energia (Margarida Ramires) </li>
 <li> Autoconsumo coletivo – primeiros passos para a sua concretização (Paulo Oliveira, Pedro Costa e Jorge Esteves)</li>
+
 </ul>
 </ul>
 </details>
@@ -18,10 +22,10 @@ Revista <a href="https://www.renovaveismagazine.pt/">Renováveis Magazine</a> Ed
 </br>
 
 <details open>
-<summary> <span style="font-size:20px;">Seminários e webinars</span></summary>
+<summary> <span style="font-size:20px;">Eventos</span></summary>
 <ul>
 
-<li>Seminário <a href="https://www.youtube.com/watch?v=TJt7GP-mCgE">"Como criar comunidades de energia"</a> </li> <p></p> Decorrido na FEUP a 04/02/2020. <a href="https://campanhas.voltimum.pt/comunidadesdeenergia/"> Programa</a>:
+<li>Seminário <a href="https://www.youtube.com/watch?v=TJt7GP-mCgE">"Como criar comunidades de energia"</a>, 04/02/2020 (Faculdade de Engenharia da Universidade do Porto).  </li> <p></p> <a href="https://campanhas.voltimum.pt/comunidadesdeenergia/"> Programa</a> :
 <ul>
 <li> Sessão de Abertura, (Cláudio Monteiro, FEUP)</li>
 <li> O novo Decreto-Lei n.º162/2019 de 25 de Outubro. Especificidades e procedimentos legais de constituição de Comunidades de Energia e autoconsumo coletivo (Margarida Ramires, pbbr Sociedade de Advogados, SP, RL)</li>
@@ -36,10 +40,11 @@ Revista <a href="https://www.renovaveismagazine.pt/">Renováveis Magazine</a> Ed
 
 </ul>
 
-<li> Webinar ERSE sobre a <a href="https://www.youtube.com/watch?v=TjNuCm4gFjM"> Partilha de Energia no Autoconsumo Coletivo</a>, 25/06/2020 </li>
+<li> Webinar ERSE sobre a <a href="https://www.youtube.com/watch?v=TjNuCm4gFjM"> Partilha de Energia no Autoconsumo Coletivo</a>, 25/06/2020 (online) </li>
 
-<li> Webinar ERSE sobre o <a href="https://www.youtube.com/watch?v=o1KiRZUU5iA"> o Papel das Entidades Gestoras do Autoconsumo Coletivo"</a>, 29/07/2020 </li>
+<li> Webinar Lisboa E-Nova sobre <a href="https://www.youtube.com/watch?v=q4lRIdWtT7w"> Autoconsumo Coletivo e Comunidades de Energia Renovável"</a>, 23/11/2020 (online) </li>
 
+<li> Webinar FOTOPLAT sobre <a href="https://www.youtube.com/watch?v=5xS06A5mmdw"> Autoconsumo compartido en el contexto urbano: ejemplos en tipologías residenciales"</a>, 10/12/2020 (online) </li>
 
 </ul>
 </details>
