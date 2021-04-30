@@ -36,18 +36,3 @@ De momento é apenas abrangido o tema do autoconsumo coletivo e comunidades ener
 ### [Legislação e regulamentos](legislacao-regulamentos.md)
 Documentação preparada pelo Governo Português ou instituições qualificadas (DGEG, ERSE). <br>
 De momento é apenas considerado o tema do autoconsumo e as comunidades de Energia.
-
- <img src="pics/banana.jpg" onmouseover="this.src='pics/dashboard_print.png'" onmouseout="this.src='pics/maphub_print.png'" />
-
-<br> <span class="hiddentxt"><a href="https://upload.wikimedia.org/wikipedia/commons/8/8a/Banana-Single.jpg">banana</a></span><span class="hiddenimg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Banana-Single.jpg" width="250" /></span>
-
-<p class='parent'> teste </p>
-<img class='child' src='pics/dashboard_print.png'>
-
-.child {
-    visibility: hidden;
-}
-
-.parent:hover .child {
-    visibility: visible;
-}
