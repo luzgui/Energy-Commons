@@ -7,27 +7,53 @@ Repository and open database for tutorials, computational tools, software implem
  <!--## The politics of Energy  -->
 
 
-# Artigos nos media
+# Projetos fotovoltaicos nos *media*
 
-<br>
+Conteúdo disponível nos meios de comunicação tradicionais, páginas web de empresas do setor, Facebook e LinkedIn. <br> <br>
 
-<details>
+<details open>
 <summary> <span style="font-size:18px;"> Iniciativas privadas </span></summary>
+<ul>
+
+<details open>
+<summary> <span style="font-size:14px;"> 2014 </span></summary>
 <ul>
 
 <li> <a href="https://grandeconsumo.com/montiqueijo-inaugura-unidade-fotovoltaica/">Montiqueijo inaugura unidade fotovoltaica</a> (Grande Consumo, 09/2014) </li>
 
 <li> <a href="https://www.sunenergy.pt/sunenergy-instala-solucao-de-autoconsumo-na-frutalmente/">SunEnergy instala solução de autoconsumo na Frutalmente</a> (sunenergy, 11/2014) </li>
 
+</ul>
+</details>
+
+<details open>
+<summary> <span style="font-size:14px;"> 2015 </span></summary>
+<ul>
+
+<li> <a href="http://www.ambienteonline.pt/canal/detalhe/dst-renovaveis-vai-instalar-centrais-fotovoltaicas-no-valor-de-dois-milhoes-de-euros">DST Renováveis vai instalar centrais fotovoltaicas no valor de dois milhões de euros</a> (água & ambiente, 02/2015) </li>
+
 <li> <a href="https://www.sunenergy.pt/sunenergy-instala-projeto-de-autoconsumo-na-fabrica-de-arroz-gatoes/">SunEnergy instala projeto de autoconsumo na Fábrica de Arroz de Gatões</a> (sunenergy, 04/2015) </li>
 
 <li> <a href="https://www.publico.pt/2015/05/04/local/noticia/edia-recorre-a-energia-solar-para-reduzir-custos-no-regadio-em-alqueva-1694491">EDIA recorre à energia solar para reduzir custos no regadio em Alqueva</a> (Público, 05/2015) </li>
+
+<li> <a href="http://www.correioalentejo.com/?diaria=13669">Sede da EDIA é o edifício "mais verde" de Beja</a> (Correio do Alentejo, 06/2015) </li>
+
+<li> <a href="https://www.dnoticias.pt/2015/6/4/80237-novo-hotel-de-10-milhoes-de-euros-abre-portas-em-peniche-com-forte-aposta-na-ecologia/">Novo hotel de 10 milhões de euros abre portas em Peniche com forte aposta na tecnologia</a> (Diário de Notícias, 06/2015) </li>
 
 <li> <a href="https://www.sunenergy.pt/sunenergy-instala-mais-de-800-paineis-na-natural-stone/">SunEnergy instala mais de 800 painéis na Natural Stone</a> (sunenergy, 07/2015) </li>
 
 <li> <a href="https://www.dinheirovivo.pt/outras/lojas-ikea-em-portugal-vao-produzir-energia-solar/">Lojas Ikea em Portugal vão produzir energia solar</a> (Dinheiro Vivo, 12/2015) </li>
 
+</ul>
+</details>
+
+<details open>
+<summary> <span style="font-size:14px;"> 2016 </span></summary>
+<ul>
+
 <li> <a href="http://trilhosenergeticos.pt/news/aldeia-da-serra-da-lousa-torna-se-100-autonoma-da-rede-publica-de-energia/">Aldeia da serra da Lousã torna-se 100% autónoma da rede pública de energia</a> (Trilhos Energéticos, 02/2016)</li>
+
+<li> <a href="https://www.ambientemagazine.com/sede-do-lidl-portugal-reforca-aposta-nas-energias-renovaveis/">Sede do LIDL Portugal reforça aposta nas energias renováveis</a> (Ambiente Magazine, 03/2016)</li>
 
 <li> <a href="https://www.sunenergy.pt/novo-quartel-dos-bombeiros-de-cuba-ira-funcionar-a-energia-solar/">Novo quartel dos Bombeiros de Cuba irá funcionar a energia solar</a> (sunenergy, 04/2016) </li>
 
@@ -41,15 +67,26 @@ Repository and open database for tutorials, computational tools, software implem
 
 <li> <a href="http://trilhosenergeticos.pt/news/unidade-de-autoconsumo-instalada-nos-acores-torna-restaurante-100-autonomo/">Unidade de autoconsumo instalada nos Açores torna restaurante 100% autónomo!</a> (Trilhos Energéticos, 08/2016)</li>
 
+<li> <a href="http://www.vozdaplanicie.pt/noticias/almodovar-investe-em-eficiencia-energetica">Almodôvar investe em "Eficiência Energética"</a> (Rádio Voz da Planície, 08/2016)</li>
+
 <li> <a href="https://www.sunenergy.pt/mais-um-grande-projeto-de-autoconsumo-em-agueda/">Mais um grande projeto de autoconsumo em Águeda</a> (sunenergy, 09/2016) </li>
 
 <li> <a href="https://www.sunenergy.pt/novo-projeto-de-autoconsumo-agora-em-cantanhede/">Novo projeto de autoconsumo, agora em Cantanhede</a> (sunenergy, 11/2016) </li>
 
 <li> <a href="http://trilhosenergeticos.pt/news/instalacao-de-solucao-de-autoconsumo-com-paineis-mais-eficientes-mercado/">Instalação de solução de autoconsumo com painéis mais eficientes do mercado</a> (Trilhos Energéticos, 11/2016)</li>
 
+</ul>
+</details>
+
+<details open>
+<summary> <span style="font-size:14px;"> 2017 </span></summary>
+<ul>
+
 <li> <a href="https://www.sunenergy.pt/sunenergy-executa-um-dos-maiores-projetos-de-autoconsumo-a-nivel-nacional/">SunEnergy executa um dos maiores projetos de autoconsumo a nível nacional</a> (sunenergy, 01/2017) </li>
 
 <li> <a href="http://trilhosenergeticos.pt/news/trilhos-energeticos-instala-sistema-inovador-em-portugal/">Trilhos Energéticos instala sistema inovador em Portugal</a> (Trilhos Energéticos, 01/2017)</li>
+
+<li> <a href="https://agriculturaemar.com/edia-instala-44-paineis-fotovoltaicos-flutuantes-no-regadio-alqueva/">EDIA instala 44 painéis fotovoltaicos flutuantes no regadio de Alqueva</a> (Agricultura e Mar, 01/2017)</li>
 
 <li> <a href="http://trilhosenergeticos.pt/news/instalacao-de-55-paineis-para-autoconsumo-em-restaurante-de-penacova/">Instalação de 55 painéis para autoconsumo em restaurante de Penacova</a> (Trilhos Energéticos, 02/2017)</li>
 
@@ -64,6 +101,8 @@ Repository and open database for tutorials, computational tools, software implem
 <li> <a href="https://www.sunenergy.pt/sunenergy-chega-a-acordo-com-o-grupo-hoteleiro-mh-hotels-de-peniche/">SunEnergy chega a acordo para instalar 520 painéis solares fotovoltaicos em Hotel de Peniche</a> (sunenergy, 06/2017) </li>
 
 <li> <a href="http://trilhosenergeticos.pt/news/unidade-de-producao-de-energia-autonoma-no-templo-ecumenico/">Unidade de produção de energia autonóma no templo ecuménico</a> (Trilhos Energéticos, 07/2017)</li>
+
+<li> <a href="https://www.ambientemagazine.com/ikea-industry-instala-18-240-paineis-fotovoltaicos-em-portugal/">IKEA Industry instala 18.240 painéis fotovoltaicos em Portugal</a> (ambiente magazine, 07/2017)</li>
 
 <li> <a href="https://www.sunenergy.pt/sunenergy-equipa-oito-pontos-de-venda-da-litocar-no-centro-do-pais/">SunEnergy equipa oito pontos de venda da Litocar no centro do país</a> (sunenergy, 09/2017) </li>
 
@@ -81,6 +120,13 @@ Repository and open database for tutorials, computational tools, software implem
 
 <li> <a href="https://www.sunenergy.pt/sunenergy-ajuda-ciclofapril-poupar-25-000e-ano/">SunEnergy ajuda CicloFapril a poupar 25.000€ por ano</a> (sunenergy, 12/2017) </li>
 
+</ul>
+</details>
+
+<details open>
+<summary> <span style="font-size:14px;"> 2018 </span></summary>
+<ul>
+
 <li> <a href="http://trilhosenergeticos.pt/news/centro-de-bem-estar/">A Trilhos Energéticos instala unidade de autoconsumo de 18.6 kW em Penacova</a> (Trilhos Energéticos, 01/2018)</li>
 
 <li> <a href="http://trilhosenergeticos.pt/news/turismo-portugal-hoteleiras/">Unidades turísticas e hoteleiras apostam cada vez em energias renováveis</a> (Trilhos Energéticos, 02/2018)</li>
@@ -92,6 +138,8 @@ Repository and open database for tutorials, computational tools, software implem
 <li> <a href="http://trilhosenergeticos.pt/news/produzir-a-sua-propria-energia/">Empresa de Pedrogão Grande começa a produzir a sua própria energia!</a> (Trilhos Energéticos, 03/2018)</li>
 
 <li> <a href="https://www.sunenergy.pt/sunenergy-instala-paineis-solares-nas-caves-messias/">SunEnergy instala painéis solares nas Caves Messias</a> (sunenergy, 04/2018) </li>
+
+<li> <a href="https://jornaleconomico.sapo.pt/noticias/alqueva-energia-solar-para-poupar-ate-40-300160">Alqueva: energia solar para poupar até 40%</a> (Jornal Económico, 04/2018) </li>
 
 <li> <a href="https://www.sonae.pt/pt/media/press-releases/115-centrais-fotovoltaicas-alimentam-estruturas-da-sonae-mc/">115 centrais fotovoltaicas alimentam estruturas da Sonae MC</a> (Sonae, 05/2018) </li>
 
@@ -105,6 +153,8 @@ Repository and open database for tutorials, computational tools, software implem
 
 <li> <a href="http://trilhosenergeticos.pt/news/trilhos-energeticos-da-mais-um-passo-em-direcao-ao-futuro/">Trilhos Energéticos dá mais um passo em direção ao futuro!</a> (Trilhos Energéticos, 07/2018)</li>
 
+<li> <a href="https://www.engenhariaeconstrucao.com/2018/07/dst-solar-vale-do-ave.html/">DST solar constrói três centrais fotovoltaicas no Vale do Ave</a> (Engenharia e Construção, 07/2018)</li>
+
 <li> <a href="https://www.sunenergy.pt/espaco-inovacao-em-oliveira-do-bairro-inova-com-a-ajuda-da-sunenergy/">Espaço Inovação inova no Autoconsumo com a ajuda da SunEnergy</a> (sunenergy, 08/2018) </li>
 
 <li> <a href="http://trilhosenergeticos.pt/news/trilhos-energeticos-instala-solucao-de-159-5-kw-em-empresa-do-ramo-hoteleiro/">Trilhos Energéticos instala solução de 15 kWp em empresa do ramo hoteleiro</a> (Trilhos Energéticos, 08/2018)</li>
@@ -112,6 +162,8 @@ Repository and open database for tutorials, computational tools, software implem
 <li> <a href="http://trilhosenergeticos.pt/news/trilhos-energeticos-finaliza-projeto-de-28-wp-em-associacao-de-solidariedade/">Trilhos Energéticos finaliza projeto de 28 kWp em associação de solidariedade</a> (Trilhos Energéticos, 09/2018)</li>
 
 <li> <a href="http://trilhosenergeticos.pt/news/trilhos-energeticos-instala-580-paineis-em-estancia-e-serracao-de-madeiras-exoticas/">Trilhos Energéticos instala 580 painéis em Estância e Serração de Madeiras Exóticas</a> (Trilhos Energéticos, 09/2018)</li>
+
+<li> <a href="https://www.diarioimobiliario.pt/Entrevistas/Intermarche-de-Tondela-ira-produzir-a-sua-propria-energia">Intermarché de Tondela irá produzir a sua própria energia</a> (Diário Imobiliário, 09/2018)</li>
 
 <li> <a href="https://greensavers.sapo.pt/crowdfunding-sustentavel-ajuda-ceramica-de-pegoes-a-evitar-180-toneladas-de-co2/
 ">Crowdfunding sustentável ajuda Cerâmica de Pegões a evitar 180 toneladas de CO2 por ano</a> (Green Savers, 10/2018) </li>
@@ -130,17 +182,28 @@ Repository and open database for tutorials, computational tools, software implem
 
 <li> <a href="https://www.carmim.eu/noticias/carmim-inaugura-central-fotovoltaica/">CARMIM inaugura central fotovoltaica</a> (CARMIM, 12/2018) </li>
 
+</ul>
+</details>
+
+<details open>
+<summary> <span style="font-size:14px;"> 2019 </span></summary>
+<ul>
+
 <li> <a href="http://trilhosenergeticos.pt/news/trilhos-energeticos-termina-mais-um-projeto/">Trilhos Energéticos instala sombreador solar nos Açores!</a> (Trilhos Energéticos, 01/2019)</li>
 
 <li> <a href="https://www.sunenergy.pt/torre-de-palma-wine-hotel-torna-se-energeticamente-sustentavel/">Torre de Palma Wine Hotel é energeticamente sustentável</a> (sunenergy, 02/2019) </li>
 
 <li> <a href="http://trilhosenergeticos.pt/news/trilhos-energeticos-instala-508-modulos-fotovoltaicos-em-tabua/">Trilhos Energéticos instala 508 módulos fotovoltaicos em Tábua</a> (Trilhos Energéticos, 02/2019)</li>
 
+<li> <a href="http://www.vozdaplanicie.pt/noticias/acvca-aposta-na-preservacao-do-ambiente/">Adega Cooperativa de Vidigueira aposta na preservação do ambiente</a> (Rádio Voz da Planície, 02/2019)</li>
+
 <li> <a href="https://www.wattson.pt/2019/03/30/sport-alges-e-dafundo-com-paineis-solares-reduz-fatura-do-gas-em-metade/">Sport Algés e Dafundo com painéis solares reduz fatura do gás em metade</a> (WATTSON, 03/2019) </li>
 
 <li> <a href="https://www.sunenergy.pt/leirimetal-poupa-atraves-de-unidade-de-autoconsumo-fotovoltaico/">Leirimetal poupa através de unidade de autoconsumo</a> (sunenergy, 03/2019) </li>
 
 <li> <a href="http://trilhosenergeticos.pt/news/gandara-gestao-de-residuos-poupa-cerca-de-9000e-anuais-em-energia/">Gândara – Gestão de Resíduos poupa cerca de 9000€ anuais em energia!</a> (Trilhos Energéticos, 03/2019)</li>
+
+<li> <a href="http://www.dc-pv.com/cooperativa-agricola-de-rega-investe-no-solar/">Cooperativa agrícola de rega investe no solar</a> (DC-PV, 03/2019)</li>
 
 <li> <a href="https://www.sunenergy.pt/paineis-solares-fotovoltaicos-eleclerc/">930 painéis solares fotovoltaicos vão permitir a hipermercado E.Leclerc poupar 42.000 euros por ano</a> (sunenergy, 05/2019)</li>
 
@@ -149,6 +212,8 @@ Repository and open database for tutorials, computational tools, software implem
 <li> <a href="https://www.sunenergy.pt/santa-casa-da-misericordia-poupa-20-mil-euros-ano-em-energia/">Santa Casa da Misericórdia de Águeda vai poupar 20 mil euros por ano em energia</a> (sunenergy, 05/2019)</li>
 
 <li> <a href="https://www.sunenergy.pt/trincapeixe-poupa-ao-aderir-as-renovaveis/">SunEnergy leva mais uma empresa a poupar 12mil euros anuais após aderir às renováveis</a> (sunenergy, 06/2019)</li>
+
+<li> <a href="http://www.dc-pv.com/dc-pv-instala-1020-modulos-solares-em-armazens-da-empresa-frimarc-2/">DC-PV INSTALA 1020 MÓDULOS SOLARES</a> (DC-PV, 06/2019)</li>
 
 <li> <a href="https://www.sunenergy.pt/indelague-poupa-27-mil-euros-por-ano-com-solucao-de-autoconsumo-sunenergy/">Indelague poupa 27 mil euros por ano com solução de autoconsumo SunEnergy</a> (sunenergy, 07/2019)</li>
 
@@ -159,6 +224,8 @@ Repository and open database for tutorials, computational tools, software implem
 <li> <a href="http://trilhosenergeticos.pt/news/trilhos-energeticos-termina-instalacao-de-autoconsumo-autonomo/">Trilhos Energéticos termina nova instalação de Autoconsumo Autónomo!</a> (Trilhos Energéticos, 11/2019)</li>
 
 <li> <a href="https://www.sunenergy.pt/utad-assina-contrato-com-a-sunenergy/">UTAD passa a ser energeticamente eficiente com as soluções Sunenergy</a> (sunenergy, 09/2019)</li>
+
+<li> <a href="https://www.edia.pt/pt/edia-lanca-concurso-para-o-maior-projeto-fotovoltaico-flutuante-da-europa/">EDIA lança concurso para o maior projeto fotovoltaico flutuante da Europa</a> (EDIA, 10/2019)</li>
 
 <li> <a href="http://trilhosenergeticos.pt/news/lizcentro-aposta-nas-energias-renovaveis-e-instala-sombreador-solar/">Trilhos Energéticos® termina nova Instalação de Autoconsumo Empresarial</a> (Trilhos Energéticos, 11/2019)</li>
 
@@ -176,8 +243,18 @@ Repository and open database for tutorials, computational tools, software implem
 
 <li> <a href="https://www.sunenergy.pt/italbox-investe-em-solucao-sunenergy/">Italbox torna-se mais sustentável com investimento em 400 painéis fotovoltaicos para autoconsumo</a> (sunenergy, 12/2019)</li>
 
+</ul>
+</details>
+
+<details open>
+<summary> <span style="font-size:14px;"> 2020 </span></summary>
+<ul>
+
 <li> <a href="https://www.dinheirovivo.pt/empresas/lidl-aposta-no-verde-fornecimento-e-100-de-energia-renovavel/
 ">Lidl aposta no verde. Fornecimento das lojas é 100% de energia renovável</a> (Dinheiro Vivo, 01/2020)</li>
+
+<li> <a href="https://correiodominho.pt/noticias/dst-solar-executa-oito-centrais-fotovoltaicas/122283/
+">dst solar executa oito centrais fotovoltaicas</a> (Correio do Minho, 01/2020)</li>
 
 <li> <a href="https://www.dinheirovivo.pt/empresas/dono-do-intermarche-investe-em-energia-solar/">Dono do Intermarché investe em energia solar</a> (Dinheiro Vivo, 01/2020)</li>
 
@@ -211,6 +288,8 @@ Repository and open database for tutorials, computational tools, software implem
 
 <li> <a href="https://jornaleconomico.sapo.pt/noticias/sporting-firma-parceria-com-edp-e-equipa-academia-de-alcochete-com-600-paineis-solares-para-autoconsumo-594747">Sporting firma parceria com EDP e equipa Academia de Alcochete com 600 painéis solares para autoconsumo</a> (Jornal Económico, 05/2020)</li>
 
+<li> <a href="https://www.noticiasdeaveiro.pt/primus-vitoria-reforca-a-sua-aposta-na-sustentabilidade/">Primus Vitória reforça a sua aposta na sustentabilidade</a> (Notícias de Aveiro, 05/2020)</li>
+
 <li> <a href="http://trilhosenergeticos.pt/news/trilhos-energeticos-apresenta-mais-uma-instalacao-de-autoconsumo-empresarial-concluida/">Trilhos Energéticos®instala 55 painéis para Autoconsumo Empresarial!</a> (Trilhos Energéticos, 05/2020)</li>
 
 <li> <a href="https://agriterra.pt/Artigos/307889-Olival-energia-solar-agricultura-historia-maos-dadas-na-fronteira-entre-Portugal-Espanha.html">Olival: energia solar, agricultura e história de mãos dadas na fronteira entre Portugal e Espanha</a> (Agriterra, 06/2020)</li>
@@ -234,6 +313,8 @@ Repository and open database for tutorials, computational tools, software implem
 <li> <a href="https://ominho.pt/empresa-de-famalicao-instala-parque-solar-e-vai-poupar-35-na-fatura-energetica/">Empresa de Famalicão instala parque solar e vai poupar 35% na fatura energética</a> (O Minho, 08/2020)</li>
 
 <li> <a href="https://www.sunenergy.pt/o-projeto-para-a-exporlux-contemplou-a-instalacao-de-562-paineis-solares-fotovoltaicos-de-380w/">Projeto de autoconsumo da Sunenergy leva a poupança anual de 23 mil€ à Exporlux</a> (sunenergy, 08/2020)</li>
+
+<li> <a href="https://www.dinheirovivo.pt/empresas/helexia-investe-800-mil-euros-em-nova-central-fotovoltaica-da-soladrilho-12893669.html">Helexia investe 800 mil euros em nova central fotovoltaica da Soladrilho</a> (DinheiroVivo, 08/2020)</li>
 
 <li> <a href="https://jornaleconomico.sapo.pt/noticias/silopor-vai-investir-mais-de-meio-milhao-de-euros-na-instalacao-de-1-650-paineis-solares-na-trafaria-633588">Silopor vai investir mais de meio milhão de euros na instalação de 1.650 painéis solares na Trafaria</a> (Jornal Económico, 09/2020)</li>
 
@@ -273,24 +354,51 @@ Repository and open database for tutorials, computational tools, software implem
 
 <li> <a href="https://www.dinheirovivo.pt/empresas/edp-comercial-com-melhor-ano-nos-paineis-solares-domesticos-13058819.html">EDP Comercial com "melhor ano" nos painéis solares domésticos</a> (Dinheiro Vivo, 11/2020)</li>
 
-
+<li> <a href="https://www.jornaldenegocios.pt/empresas/energia/detalhe/covid-19-trava-maior-projeto-fotovoltaico-flutuante-da-europa">Alqueva: Covid-19 trava maior projeto fotovoltaico flutuante da Europa</a> (Dinheiro Vivo, 11/2020)</li>
+</ul>
+</details>
 
 </ul>
 </details>
 
 <br>
 
-<details>
+
+
+
+
+
+
+
+
+
+
+
+<details open>
 <summary> <span style="font-size:18px;">  Iniciativas públicas </span></summary>
 <ul>
 
-<li> <a href="https://www.publico.pt/2011/09/16/ciencia/noticia/cascais-passa-a-ter-bicicletas-electricas-carregadas-com-energia-solar-1512192">Cascais passa a ter bicicletas eléctricas carregadas com energia solar</a> (Público, 09/2011) </li>
-
-<li> <a href="https://www.publico.pt/2015/06/04/tecnologia/noticia/penafiel-inaugura-banco-de-jardim-que-carregara-telemoveis-atraves-de-energia-solar-1697914">Penafiel inaugura banco de jardim que carregará telemóveis através de energia solar</a> (Público, 09/2011) </li>
+<details open>
+<summary> <span style="font-size:14px;"> 2016 </span></summary>
+<ul>
 
 <li> <a href="https://www.sunenergy.pt/sunenergy-ajuda-camara-municipal-de-agueda-a-poupar-mais-de-30-000eano/">SunEnergy ajuda Câmara Municipal de Águeda a poupar mais de 30.000€/ano</a> (sunenergy, 12/2016) </li>
 
+</ul>
+</details>
+
+<details open>
+<summary> <span style="font-size:14px;"> 2017 </span></summary>
+<ul>
+
 <li> <a href="https://www.sunenergy.pt/sunenergy-liga-a-camara-municipal-de-albergaria-a-velha-ao-sol/">SunEnergy liga a Câmara Municipal de Albergaria-a-Velha ao sol</a> (sunenergy, 07/2017) </li>
+
+</ul>
+</details>
+
+<details open>
+<summary> <span style="font-size:14px;"> 2018 </span></summary>
+<ul>
 
 <li> <a href="https://www.sunenergy.pt/sunenergy-vence-concurso-publico-do-municipio-da-figueira-da-foz/">SunEnergy vence concurso público do Município da Figueira da Foz</a> (sunenergy, 01/2018) </li>
 
@@ -301,6 +409,13 @@ Repository and open database for tutorials, computational tools, software implem
 <li> <a href="https://www.sunenergy.pt/instituto-politecnico-da-guarda-produz-150-000-kwh-por-ano-com-sunenergy/">Instituto Politécnico da Guarda produz 150.000 kWh por ano com a SunEnergy</a> (sunenergy, 10/2018) </li>
 
 <li> <a href="https://www.dn.pt/lusa/santa-maria-com-projeto-de-eficencia-energetica-para-se-transformar-em-hospital-verde-9858952.html">Santa Maria com projeto de eficência energética para se transformar em "Hospital verde"</a> (Diário de Notícias, 10/2018) </li>
+
+</ul>
+</details>
+
+<details open>
+<summary> <span style="font-size:14px;"> 2019 </span></summary>
+<ul>
 
 <li> <a href="https://www.publico.pt/2019/03/19/local/noticia/plano-lisboa-liga-campeoes-energia-solar-1866026
 ">Um plano para pôr Lisboa na Liga dos Campeões da Energia Solar</a> (Público, 03/2019) </li>
@@ -315,6 +430,13 @@ Repository and open database for tutorials, computational tools, software implem
 </a> (Público, 10/2019)</li>
 
 <li> <a href="https://www.sulinformacao.pt/2019/11/culatra-publica-agenda-de-transicao-para-as-energias-limpas/">Culatra publica agenda de transição para as energias limpas</a> (Sulinformação, 11/2019)</li>
+
+</ul>
+</details>
+
+<details open>
+<summary> <span style="font-size:14px;"> 2020 </span></summary>
+<ul>
 
 <li> <a href="https://www.noticiasaominuto.com/economia/1400971/coimbra-quer-regulamento-para-incentivar-producao-de-energia-fotovoltaica">Coimbra quer regulamento para incentivar produção de energia fotovoltaica</a> (Notícias ao Minuto, 01/2020)</li>
 
@@ -350,6 +472,11 @@ Repository and open database for tutorials, computational tools, software implem
 
 <li> <a href="https://smart-cities.pt/smn/ena-paineis-2011/">Azeitão, Sado e Gâmbia-Pontes Alto da Guerra instalam painéis solares fotovoltaicos para autoconsumo</a> (Smart Cities, 10/2020)</li>
 
+</ul>
+</details>
+
+</ul>
+</details>
 
 </ul>
 </details>
