@@ -14,7 +14,7 @@ Análise aos registos de instalações fotovoltaicas da Direção Geral de Energ
 Estes registos estão desagregados ao nível mensal (tempo) e NUTSIII (espaço). <br>
 De momento apenas estão abrangidas Unidades de Pequena Produção e sistemas para autoconsumo. <br> 
 
-![imagem](pics/dashboard_print.png)
+![imagem_dashboard](pics/dashboard_print.png)
 <br>
 
 ### [Projetos fotovoltaicos nos *media*](projetos-fotovoltaicos-media.md)
@@ -25,7 +25,7 @@ Georreferenciação dos projetos identificados na secção anterior [em desenvol
 Apesar de menos completo que os registos da DGEG, oferece maior detalhe (em termos de localização e aplicação). <br>
 Ainda em desenvolvimento, considerando algumas instalações de autoconsumo. <br> 
 
-![imagem](pics/maphub_print.png)
+![imagem_maphub](pics/maphub_print.png)
 <br>
 
 ### [Materiais variados sobre energia fotovoltaica](materiais-variados.md)
