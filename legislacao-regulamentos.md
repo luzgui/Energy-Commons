@@ -10,36 +10,35 @@ Repository and open database for tutorials, computational tools, software implem
 
 ## Autoconsumo Coletivo e Comunidades de Energia
 
-<br></br>
-https://www.dgeg.gov.pt/pt/areas-setoriais/energia/energia-eletrica/producao-de-energia-eletrica/producao-descentralizada-autoconsumo-e-upp/autoconsumo-e-cer/enquadramento-legal/
-
-<br>
 <details open>
 <summary> <span style="font-size:18px; "> Legislação </span> </summary>
 <ul>
 <li> <a href="https://dre.pt/pesquisa/-/search/125692189/details/maximized">Decreto-Lei n.º 162/2019</a>, publicado em Outubro de 2019 e que aprova o regime jurídico aplicável ao autoconsumo de energia renovável
-
-<ul>
-<li>São introduzidos vários conceitos, tais como (<span style="color:red; ">por preencher</span>)</li>
-
-<li>Versão original do documento proposta para consulta pública (<span style="color:red; ">por identificar</span>)</li>
-</ul>
 </li>
+
 <li><a href="https://dre.pt/home/-/dre/128415687/details/maximized">Portaria 16/2020</a>, de Janeiro 2020 e que fixa os valores das taxas devidas no âmbito dos procedimentos administrativos relativos à atividade de autoconsumo e às comunidades de energia renovável</li>
+
+<li><a href="https://dre.pt/application/file/a/136170375">Despacho 6453/2020</a>, de Junho 2020 e que define um regime transitório de isenção, total ou parcial, do pagamento dos custos de interesse económico gerais (CIEG) para instalações de autoconsumo.
+</li>
+
 </ul>
 </details>
 
 <br>
 
 <details open>
-
 <summary> <span style="font-size:18px; "> Regulação </span> </summary>
 
-<ul><details>
+<ul><details open>
 <summary> <span style="font-size:16px; "> Entidade Reguladora dos Serviços Energéticos (ERSE) </span> </summary>
 
 <ul>
-<li> <a href="https://dre.pt/application/conteudo/130469272">Regulamento 266/2020</a>, publicado em Março de 2020 e que regulamenta as atividades de autoconsumo de energia elétrica em Portugal
+<li> <a href="https://dre.pt/application/conteudo/130469272">Regulamento 8/2021</a>, publicado em Abril de 2021 e que regulamenta as atividades de autoconsumo e comunidades de energia renovável (revogando o Regulamento 266/2020)
+</li>
+</ul>
+
+<ul>
+<li> <a href="https://dre.pt/application/conteudo/130469272">Regulamento 266/2020</a> (revogado), publicado em Março de 2020 e que regulamenta as atividades de autoconsumo de energia elétrica em Portugal
 
 <ul>
 <li> <a href="https://www.erse.pt/media/ibeepxbj/cp82_articulado.pdf">Versão original do documento proposta para consulta pública</a></li>
@@ -56,7 +55,7 @@ https://www.dgeg.gov.pt/pt/areas-setoriais/energia/energia-eletrica/producao-de-
 </ul></details>
 </ul>
 
-<ul><details>
+<ul><details open>
 <summary> <span style="font-size:16px; ">Direção-Geral de Energia e Geologia (DGEG) (ERSE) </span> </summary>
 
 <ul>
