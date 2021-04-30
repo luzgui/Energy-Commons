@@ -23,7 +23,9 @@ Repository and open database for tutorials, computational tools, software implem
 
 </details>
 
-<br> <details open>
+<br>
+
+<details open>
 <summary> <span style="font-size:18px; "> Regulação </span> </summary>
 
 <ul>
@@ -61,6 +63,7 @@ Repository and open database for tutorials, computational tools, software implem
 <ul> 
 <li> <a href="https://participa.pt/contents/consultationdocument/Despacho-UPAC.pdf">Versão original do documento proposta para consulta pública</a></li>
 </ul>
+
 </ul>
 </details>
 </ul>
