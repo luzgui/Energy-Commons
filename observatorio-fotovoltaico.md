@@ -15,7 +15,7 @@ Estes registos estão desagregados ao nível mensal (tempo) e NUTSIII (espaço).
 De momento apenas estão abrangidas Unidades de Pequena Produção e sistemas para autoconsumo. <br> 
 
 ![imagem_dashboard](pics/dashboard_print.png)
-<br>
+<br><br>
 
 ### [Projetos fotovoltaicos nos *media*](projetos-fotovoltaicos-media.md)
 Conteúdo disponível em meios de comunicação tradicionais, páginas web de empresas do setor, Facebook e LinkedIn. <br> <br>
@@ -26,11 +26,12 @@ Apesar de menos completo que os registos da DGEG, oferece maior detalhe (em term
 Ainda em desenvolvimento, considerando algumas instalações de autoconsumo. <br> 
 
 ![imagem_maphub](pics/maphub_print.png)
-<br>
+<br><br>
 
 ### [Materiais variados sobre energia fotovoltaica](materiais-variados.md)
 Textos, webinars, seminários e conferências de divulgação e discussão, quer portugueses ou internacionais. <br>
-De momento é apenas abrangido o tema do autoconsumo coletivo e comunidades energéticas. <br> <br>
+De momento é apenas abrangido o tema do autoconsumo coletivo e comunidades energéticas. 
+<br> <br>
 
 ### [Legislação e regulamentos](legislacao-regulamentos.md)
 Documentação preparada pelo Governo Português ou instituições qualificadas (DGEG, ERSE). <br>
