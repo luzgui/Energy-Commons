@@ -1,4 +1,4 @@
-
+ <span class="hiddentxt"><a href="https://upload.wikimedia.org/wikipedia/commons/8/8a/Banana-Single.jpg">banana</a></span><span class="hiddenimg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Banana-Single.jpg" width="250" /></span>.
 <!-- # Energy Commons -->
 <!--  **Tools and Information Database for the science, engineering, economics and politics of the Energy Transition** -->
 
@@ -36,3 +36,5 @@ De momento é apenas abrangido o tema do autoconsumo coletivo e comunidades ener
 ### [Legislação e regulamentos](legislacao-regulamentos.md)
 Documentação preparada pelo Governo Português ou instituições qualificadas (DGEG, ERSE). <br>
 De momento é apenas considerado o tema do autoconsumo e as comunidades de Energia.
+
+<br> <span class="hiddentxt"><a href="https://upload.wikimedia.org/wikipedia/commons/8/8a/Banana-Single.jpg">banana</a></span><span class="hiddenimg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Banana-Single.jpg" width="250" /></span>
