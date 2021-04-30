@@ -16,13 +16,6 @@ Feel free to contribute by making a pull request or sending an email to `gpluz@f
 
 
 
-### [Autoconsumo Coletivo e Comunidades de Energia](legislacao-regulamentos.md)
-
-* [Artigos, Webinars, Seminários](info-complementar.md)
-
-* [Noticias dos Media](investimentos-media.md)
-
-* [Casos em Portugal](Casos-PT.md)
-
+### [Observatório de energia solar fotovoltaica em Portugal](observatorio-fotovoltaico.md)
 
 ### [Flexibility / Demand-Side Management / Demand-Response](flexibility.md)
