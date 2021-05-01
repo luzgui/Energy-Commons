@@ -17,21 +17,21 @@ De momento apenas estão abrangidas Unidades de Pequena Produção (UPP) e unida
 ![imagem_dashboard](pics/dashboard_print.png)
 <br><br>
 
-### <a href="projetos-fotovoltaicos-media.md" target="_blank">Projetos fotovoltaicos nos *media*</a>
+### <a href="http://energy-commons.com/projetos-fotovoltaicos-media.html" target="_blank">Projetos fotovoltaicos nos *media*</a>
 Conteúdo disponível em meios de comunicação tradicionais, páginas web de empresas do setor, Facebook e LinkedIn. <br> <br>
 
-### [Mapeamento de projetos fotovoltaicos](https://maphub.net/rasilva/mapa-de-instalacoes-de-autoconsumo-fotovoltaico)
-Georreferenciação de projetos identificados na secção anterior. 
+### <a href="https://maphub.net/rasilva/mapa-de-instalacoes-de-autoconsumo-fotovoltaico" target="_blank">Mapeamento de projetos fotovoltaicos</a>
+Georreferenciação de projetos identificados na secção anterior.
 Apesar de menos completo que os registos da DGEG, oferece maior detalhe (em termos de localização e aplicação). <br>
 
 ![imagem_maphub](pics/maphub_print.png)
 <br><br>
 
-### [Materiais variados sobre energia fotovoltaica](materiais-variados.md)
+### <a href="http://energy-commons.com/materiais-variados.html" target="_blank">Materiais variados sobre energia fotovoltaica</a>
 Textos, webinars, seminários e conferências de divulgação e discussão, quer portugueses ou internacionais.
 De momento é apenas abrangido o tema do autoconsumo coletivo e comunidades energéticas. 
 <br> <br>
 
-### [Legislação e regulamentos](legislacao-regulamentos.md)
+### <a href="http://energy-commons.com/legislacao-regulamentos.html" target="_blank">Legislação e regulamentos</a>
 Documentação preparada pelo Governo Português ou instituições qualificadas (DGEG, ERSE).
 De momento é apenas considerado o tema do autoconsumo e as comunidades de Energia.
