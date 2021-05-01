@@ -42,7 +42,15 @@ Conteúdo disponível nos meios de comunicação tradicionais, páginas web de e
 
 <li> <a href="https://www.sunenergy.pt/sunenergy-instala-mais-de-800-paineis-na-natural-stone/">SunEnergy instala mais de 800 painéis na Natural Stone</a> (SunEnergy, 07/2015) </li>
 
+<li> <a href="http://www.dc-pv.com/dc-pv-conclui-mais-um-sistema/">DC-PV conclui mais um sistema</a> (DC-PV, 11/2015) </li>
+
+<li> <a href="http://www.dc-pv.com/sistema-solar-fotovoltaico-de-autoconsumo-concluido/">Sistema solar fotovoltaico de autoconsumo concluído</a> (DC-PV, 11/2015) </li>
+
 <li> <a href="https://www.dinheirovivo.pt/outras/lojas-ikea-em-portugal-vao-produzir-energia-solar/">Lojas Ikea em Portugal vão produzir energia solar</a> (Dinheiro Vivo, 12/2015) </li>
+
+<li> <a href="http://www.dc-pv.com/dc-pv-conclui-sistema-em-lagos/">DC-PV conclui sistema em Lagos</a> (DC-PV, 12/2015) </li>
+
+<li> <a href="http://www.dc-pv.com/dc-pv-conclui-sistema-em-olhao/">DC-PV conclui sistema em Olhão</a> (DC-PV, 12/2015) </li>
 
 </ul>
 </details>
@@ -55,9 +63,15 @@ Conteúdo disponível nos meios de comunicação tradicionais, páginas web de e
 
 <li> <a href="https://www.ambientemagazine.com/sede-do-lidl-portugal-reforca-aposta-nas-energias-renovaveis/">Sede do LIDL Portugal reforça aposta nas energias renováveis</a> (Ambiente Magazine, 03/2016)</li>
 
+<li> <a href="http://www.dc-pv.com/dc-pv-conclui-sistema-em-lagoa/">DC-PV conclui sistema em Lagoa</a> (DC-PV, 04/2016) </li>
+
+<li> <a href="http://www.dc-pv.com/dc-pv-conclui-sistema-residencial-em-loule/">DC-PV conclui sistema residencial em Loulé</a> (DC-PV, 04/2016) </li>
+
 <li> <a href="https://www.sunenergy.pt/novo-quartel-dos-bombeiros-de-cuba-ira-funcionar-a-energia-solar/">Novo quartel dos Bombeiros de Cuba irá funcionar a energia solar</a> (SunEnergy, 04/2016) </li>
 
 <li> <a href="https://www.sunenergy.pt/sunenergy-instala-96-paineis-solares-na-biomaduro/">SunEnergy instala 96 painéis solares na Biomaduro</a> (SunEnergy, 04/2016) </li>
+
+<li> <a href="http://www.dc-pv.com/dc-pv-concluiu-a-instalacao-de-uma-bomba-solar/">DC-PV concluiu a instalação de uma bomba solar</a> (DC-PV, 05/2016) </li>
 
 <li> <a href="https://www.sunenergy.pt/unidade-de-autoconsumo-instalada-em-restaurante/">Unidade de autoconsumo instalada em restaurante</a> (SunEnergy, 05/2016) </li>
 
@@ -127,6 +141,8 @@ Conteúdo disponível nos meios de comunicação tradicionais, páginas web de e
 <summary> <span style="font-size:14px;"> 2018 </span></summary>
 <ul>
 
+<li> <a href="http://www.dc-pv.com/dc-pv-conclui-com-sucesso-mais-5-sistemas/">DC-PV conclui com sucesso mais 5 sistemas</a> (DC-PV, 01/2018)</li>
+
 <li> <a href="http://trilhosenergeticos.pt/news/centro-de-bem-estar/">A Trilhos Energéticos instala unidade de autoconsumo de 18.6 kW em Penacova</a> (Trilhos Energéticos, 01/2018)</li>
 
 <li> <a href="http://trilhosenergeticos.pt/news/turismo-portugal-hoteleiras/">Unidades turísticas e hoteleiras apostam cada vez em energias renováveis</a> (Trilhos Energéticos, 02/2018)</li>
@@ -190,6 +206,8 @@ Conteúdo disponível nos meios de comunicação tradicionais, páginas web de e
 <ul>
 
 <li> <a href="http://trilhosenergeticos.pt/news/trilhos-energeticos-termina-mais-um-projeto/">Trilhos Energéticos instala sombreador solar nos Açores!</a> (Trilhos Energéticos, 01/2019)</li>
+
+<li> <a href="http://www.dc-pv.com/escolas-do-concelho-de-faro-evitam-a-emissao-anual-de-224-toneladas-de-co2/">Escolas do concelho de Faro evitam a emissão anual de 224 toneladas de CO2</a> (DC-PV, 01/2019)</li>
 
 <li> <a href="https://www.sunenergy.pt/torre-de-palma-wine-hotel-torna-se-energeticamente-sustentavel/">Torre de Palma Wine Hotel é energeticamente sustentável</a> (SunEnergy, 02/2019) </li>
 
@@ -355,6 +373,24 @@ Conteúdo disponível nos meios de comunicação tradicionais, páginas web de e
 <li> <a href="https://www.dinheirovivo.pt/empresas/edp-comercial-com-melhor-ano-nos-paineis-solares-domesticos-13058819.html">EDP Comercial com "melhor ano" nos painéis solares domésticos</a> (Dinheiro Vivo, 11/2020)</li>
 
 <li> <a href="https://www.jornaldenegocios.pt/empresas/energia/detalhe/covid-19-trava-maior-projeto-fotovoltaico-flutuante-da-europa">Alqueva: Covid-19 trava maior projeto fotovoltaico flutuante da Europa</a> (Dinheiro Vivo, 11/2020)</li>
+
+<li> <a href="https://www.sunenergy.pt/autoconsumo-s-jose-logistica-de-pneus/">Projeto de autoconsumo da SunEnergy permite poupança de 24 mil/€ anuais à S. José Logística de Pneus</a> (SunEnergy, 12/2020)</li>
+
+</ul>
+</details>
+
+<details open>
+<summary> <span style="font-size:14px;"> 2021 </span></summary>
+<ul>
+
+<li> <a href="http://trilhosenergeticos.pt/news/trilhos-energeticos-instala-solucao-lg-com-garantia-de-10-anos/">Trilhos Energéticos instala Solução LG com garantia de 10 anos!</a> (Trilhos Energéticos, 01/2021)</li>
+
+<li> <a href="http://trilhosenergeticos.pt/news/trilhos-energeticos-instala-636-paineis-em-oliveira-do-hospital/">Trilhos Energéticos instala 636 painéis em Oliveira do Hospital!</a> (Trilhos Energéticos, 03/2021)</li>
+
+<li> <a href="https://www.sunenergy.pt/instalacao-chpl/">Instalação de painéis solares da SunEnergy permite poupança anual de 30 mil euros ao Centro Hospitalar Psiquiátrico de Lisboa</a> (SunEnergy, 03/2021)</li>
+
+<li> <a href="https://www.sunenergy.pt/instalacao-autoconsumo-interecycling/">Painéis solares da SunEnergy permitem redução de 400 toneladas de emissões de CO2/ano à Interecycling</a> (SunEnergy, 04/2021)</li>
+
 </ul>
 </details>
 
