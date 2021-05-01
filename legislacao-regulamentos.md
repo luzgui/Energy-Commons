@@ -56,7 +56,7 @@ Repository and open database for tutorials, computational tools, software implem
 <summary> <span style="font-size:16px; ">Direção-Geral de Energia e Geologia (DGEG)</span> </summary>
 
 <ul> 
-<li> <a href="https://www.dgeg.gov.pt/media/wvmldf2e/despacho-46_2019.pdf">Despacho 46/2019</a>, de Dezembro 2019 e que define as regras de funcionamento da plataforma informática e de operacionalização dos procedimentos de controlo prévio previstos no Decretlo-Lei 162/2019, bem como as normas técnicas aplicáveis e os documentos instrutórios necessários ao seu bom funcinoamento, aplicáveis às unidades de produção em autoconsumo, às instalações de utilização associadas àquelas, bem como às instalações afetas às Comunidades de Energia Renovável. </li> 
+<li> <a href="https://www.dgeg.gov.pt/media/wvmldf2e/despacho-46_2019.pdf">Despacho 46/2019</a>, de Dezembro 2019 e que define as regras de funcionamento da plataforma informática e de operacionalização dos procedimentos de controlo prévio previstos no Decreto-Lei 162/2019, bem como as normas técnicas aplicáveis e os documentos instrutórios necessários ao seu bom funcionamento, aplicáveis às unidades de produção em autoconsumo, às instalações de utilização associadas àquelas, bem como às instalações afetas às Comunidades de Energia Renovável. </li> 
 
 <li> <a href="https://www.dgeg.gov.pt/media/k0hl5gc2/despacho-4_2020.pdf">Despacho 4/2020</a>, de Fevereiro 2020 e que aprovada os <a href="https://www.dgeg.gov.pt/media/jwmpnff5/regulamento-de-inspe%C3%A7%C3%A3o-e-certifica%C3%A7%C3%A3o.pdf">Regulamento de Inspeção e Certificação (RIC) e  Regulamento Técnico e de Qualidade (RTQ)</a> </li> 
 
