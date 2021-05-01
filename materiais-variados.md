@@ -4,22 +4,23 @@ Textos, webinars, seminários e conferências de divulgação e discussão, quer
 De momento é apenas abrangido o tema do autoconsumo coletivo e comunidades energéticas. <br> <br>
 
 <details open>
-<summary> <span style="font-size:20px;">Textos </span></summary>
+<summary> <span style="font-size:20px;">Artigos </span></summary>
 <ul>
 
-<li>
-Revista <a href="https://www.renovaveismagazine.pt/">Renováveis Magazine</a> Edição nº41 (<a href="https://www.renovaveismagazine.pt/revista-2/">Download aqui</a>) 
+<li> Revista <a href="https://www.renovaveismagazine.pt/">Renováveis Magazine</a> Edição nº41 (<a href="https://www.renovaveismagazine.pt/revista-2/">Download aqui</a>) </li>
 
-<p></p>Contém um especial autoconsumo coletivo com diversos artigos de interesse: <ul>
+<p></p>Contém um especial autoconsumo coletivo com diversos artigos de interesse: 
+
+<ul>
 <li> Autoconsumo coletivo: o fator de escala que faltava ao fotovoltaico residencial? (Rodrigo Amaro e Silva, Francisco Carvalho)</li>
 <li> Autoconsumo e comunidades de energia (Margarida Ramires) </li>
 <li> Autoconsumo coletivo – primeiros passos para a sua concretização (Paulo Oliveira, Pedro Costa e Jorge Esteves)</li>
-
 </ul>
+
 </ul>
 </details>
 
-</br>
+<br>
 
 <details open>
 <summary> <span style="font-size:20px;">Eventos</span></summary>
