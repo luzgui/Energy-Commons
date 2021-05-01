@@ -21,9 +21,8 @@ De momento apenas estão abrangidas Unidades de Pequena Produção e sistemas pa
 Conteúdo disponível em meios de comunicação tradicionais, páginas web de empresas do setor, Facebook e LinkedIn. <br> <br>
 
 ### [Mapeamento de projetos fotovoltaicos](https://maphub.net/rasilva/mapa-de-instalacoes-de-autoconsumo-fotovoltaico)
-Georreferenciação dos projetos identificados na secção anterior [em desenvolvimento]. <br>
+Georreferenciação de projetos identificados na secção anterior. <br>
 Apesar de menos completo que os registos da DGEG, oferece maior detalhe (em termos de localização e aplicação). <br>
-Ainda em desenvolvimento, considerando algumas instalações de autoconsumo. <br> 
 
 ![imagem_maphub](pics/maphub_print.png)
 <br><br>
