@@ -17,7 +17,7 @@ De momento apenas estão abrangidas Unidades de Pequena Produção (UPP) e unida
 ![imagem_dashboard](pics/dashboard_print.png)
 <br><br>
 
-### [Projetos fotovoltaicos nos *media*](projetos-fotovoltaicos-media.md)
+### <a href="projetos-fotovoltaicos-media.md" target="_blank">Projetos fotovoltaicos nos *media*</a>
 Conteúdo disponível em meios de comunicação tradicionais, páginas web de empresas do setor, Facebook e LinkedIn. <br> <br>
 
 ### [Mapeamento de projetos fotovoltaicos](https://maphub.net/rasilva/mapa-de-instalacoes-de-autoconsumo-fotovoltaico)

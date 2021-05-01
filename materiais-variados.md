@@ -1,6 +1,6 @@
 # Materiais variados sobre energia fotovoltaica
 
-Textos, webinars, seminários e conferências de divulgação e discussão, quer portugueses ou internacionais. <br>
+Textos, webinars, seminários e conferências de divulgação e discussão, quer portugueses ou internacionais.
 De momento é apenas abrangido o tema do autoconsumo coletivo e comunidades energéticas. <br> <br>
 
 <details open>
