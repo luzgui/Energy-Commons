@@ -9,7 +9,7 @@ Repository and open database for tutorials, computational tools, software implem
 
 # Projetos fotovoltaicos nos *media*
 
-Conteúdo disponível nos meios de comunicação tradicionais, páginas web de empresas do setor, Facebook e LinkedIn. <br> <br>
+Conteúdo disponível nos meios de comunicação tradicionais, páginas web de empresas do setor, Facebook e LinkedIn. <br>
 
 <details open>
 <summary> <span style="font-size:18px;"> Iniciativas privadas </span></summary>
@@ -396,8 +396,6 @@ Conteúdo disponível nos meios de comunicação tradicionais, páginas web de e
 
 </ul>
 </details>
-
-<br>
 
 
 
