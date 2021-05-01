@@ -11,8 +11,7 @@
 
 ### <a href="https://app.powerbi.com/view?r=eyJrIjoiNTY0MDgxZWQtOGZhMi00ZWVkLTgwYjMtOTk2ZGIzY2QyMGFlIiwidCI6IjBiZmE4NTAwLWIxZjItNDU2Ni1iYWYxLTZmNTkzNzA4OTNlNyIsImMiOjh9&pageName=ReportSection3aef81d4ad9a6bde8430" target="_blank">Dashboard (colaboração DGEG)</a>
 Análise aos registos de instalações fotovoltaicas da Direção Geral de Energia e Geologia (DGEG). <br>
-Estes registos estão desagregados ao nível mensal (tempo) e NUTSIII (espaço). <br>
-De momento apenas estão abrangidas Unidades de Pequena Produção e sistemas para autoconsumo. <br> 
+Estes registos estão desagregados ao nível mensal (tempo) e NUTSIII (espaço). De momento apenas estão abrangidas Unidades de Pequena Produção e sistemas para autoconsumo. <br> 
 
 ![imagem_dashboard](pics/dashboard_print.png)
 <br><br>
