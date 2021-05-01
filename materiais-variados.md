@@ -25,7 +25,6 @@ De momento é apenas abrangido o tema do autoconsumo coletivo e comunidades ener
 
 <ul>
 <li> Seminário <a href="https://www.youtube.com/watch?v=TJt7GP-mCgE">"Como criar comunidades de energia"</a>, 04/02/2020 (Faculdade de Engenharia da Universidade do Porto).  </li> 
-</ul>
 
 <li> Webinar ERSE sobre a <a href="https://www.youtube.com/watch?v=TjNuCm4gFjM"> Partilha de Energia no Autoconsumo Coletivo</a>, 25/06/2020 (online) </li>
 <br>
