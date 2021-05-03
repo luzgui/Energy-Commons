@@ -12,7 +12,7 @@
 Siga a <a href="www.linkedin.com/company/observatorio-fotovoltaico" target="_blank">página de LinkedIn do Observatório</a> e esteja a par de novidades.
 <br>
 Qualquer sugestão ou pergunta, enviar e-mail para rasilva@fc.ul.pt
-<br>
+<br><br>
 
 ### <a href="https://app.powerbi.com/view?r=eyJrIjoiZjUxODBmMzUtMzM1Zi00YTlhLWE0YWItMjI2ZmM0NjRkNmJmIiwidCI6IjBiZmE4NTAwLWIxZjItNDU2Ni1iYWYxLTZmNTkzNzA4OTNlNyIsImMiOjh9" target="_blank">Dashboard: fotovoltaico em Portugal</a>
 Quanta capacidade fotovoltaica já foi instalada em Portugal? Quais as regiões com maior presença desta tecnologia? Esta plataforma de visualização procura responder a estas e outras perguntas explorando e divulgando, através de um repositório de acesso aberto, os registos de instalações fotovoltaicas em Portugal.
