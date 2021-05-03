@@ -21,12 +21,12 @@ Estes registos foram cedidos pela Direção Geral de Energia e Geologia (DGEG) e
 Tem ideia de quanta informação sobre projetos de produção fotovoltaica conseguimos encontrar nos meios de comunicação tradicionais, páginas web de empresas do setor, Facebook ou LinkedIn? Venha descobrir! 
 
 ### <a href="http://energy-commons.com/mapa-projetos-fotovoltaicos.html" target="_blank">Mapeamento de projetos fotovoltaicos</a>
-Este mapa complementa a informação representada no Dashboard, oferecendo maior detalhe espacial e descritivo de algumas das instalações fotovoltaicas encontradas nos media. Leu alguma notícia sobre uma instalação? Partilhe connosco e ajude-nos a enriquecer o mapa!
+Este mapa complementa a informação representada no dashboard, oferecendo maior detalhe espacial e descritivo de algumas das instalações fotovoltaicas encontradas nos media. Leu alguma notícia sobre uma instalação? Partilhe connosco e ajude-nos a enriquecer o mapa!
 
 <img src="pics/dashboard_maphub_hq.jpg" alt="imagem_maphub" width="500" height="280">
 <br><br>
 
-### <a href="http://energy-commons.com/materiais-variados.html" target="_blank">Recursos vários variados sobre energia fotovoltaica</a>
+### <a href="http://energy-commons.com/materiais-variados.html" target="_blank">Recursos vários  sobre energia fotovoltaica</a>
 Quer saber mais sobre energia solar fotovoltaiva? Venha consultar artigos e materiais multimédia, quer portugueses ou internacionais.
 De momento é apenas abrangido o tema do autoconsumo coletivo e comunidades energéticas. 
 <br> <br>
