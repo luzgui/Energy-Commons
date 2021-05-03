@@ -20,8 +20,6 @@ Estes registos foram cedidos pela Direção Geral de Energia e Geologia (DGEG) e
 ### <a href="http://energy-commons.com/projetos-fotovoltaicos-media.html" target="_blank">Projetos fotovoltaicos nos *media*</a>
 Tem ideia de quanta informação sobre projetos de produção fotovoltaica conseguimos encontrar nos meios de comunicação tradicionais, páginas web de empresas do setor, Facebook ou LinkedIn? Venha descobrir! 
 
-<br>
-
 ### <a href="http://energy-commons.com/mapa-projetos-fotovoltaicos.html" target="_blank">Mapeamento de projetos fotovoltaicos</a>
 Este mapa complementa a informação representada no Dashboard, oferecendo maior detalhe espacial e descritivo de algumas das instalações fotovoltaicas encontradas nos media. Leu alguma notícia sobre uma instalação? Partilhe connosco e ajude-nos a enriquecer o mapa!
 
