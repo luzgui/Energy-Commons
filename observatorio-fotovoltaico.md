@@ -27,7 +27,7 @@ Este mapa complementa a informação representada no dashboard, oferecendo maior
 <br><br>
 
 ### <a href="http://energy-commons.com/materiais-variados.html" target="_blank">Recursos vários  sobre energia fotovoltaica</a>
-Quer saber mais sobre energia solar fotovoltaiva? Venha consultar artigos e materiais multimédia, quer portugueses ou internacionais.
+Quer saber mais sobre energia solar fotovoltaica? Venha consultar artigos e materiais multimédia, quer portugueses ou internacionais.
 De momento é apenas abrangido o tema do autoconsumo coletivo e comunidades energéticas. 
 <br> <br>
 
