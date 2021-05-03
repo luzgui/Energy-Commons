@@ -20,7 +20,7 @@ De momento apenas estão abrangidas Unidades de Pequena Produção (UPP) e unida
 ### <a href="http://energy-commons.com/projetos-fotovoltaicos-media.html" target="_blank">Projetos fotovoltaicos nos *media*</a>
 Conteúdo disponível em meios de comunicação tradicionais, páginas web de empresas do setor, Facebook e LinkedIn. <br> <br>
 
-### <a href="https://maphub.net/rasilva/mapa-de-instalacoes-de-autoconsumo-fotovoltaico" target="_blank">Mapeamento de projetos fotovoltaicos</a>
+### <a href="http://energy-commons.com/mapa-projetos-fotovoltaicos.html" target="_blank">Mapeamento de projetos fotovoltaicos</a>
 Georreferenciação de projetos identificados na secção anterior.
 Apesar de menos completo que os registos da DGEG, oferece maior detalhe (em termos de localização e aplicação). <br>
 
