@@ -10,14 +10,17 @@
 # Observatório de energia solar fotovoltaica em Portugal
 
 ### <a href="https://app.powerbi.com/view?r=eyJrIjoiNTY0MDgxZWQtOGZhMi00ZWVkLTgwYjMtOTk2ZGIzY2QyMGFlIiwidCI6IjBiZmE4NTAwLWIxZjItNDU2Ni1iYWYxLTZmNTkzNzA4OTNlNyIsImMiOjh9&pageName=ReportSection3aef81d4ad9a6bde8430" target="_blank">Dashboard: fotovoltaico em Portugal</a>
-Plataforma de visualização, complementado por um repositório de acesso aberto, que analisa os registos de instalações fotovoltaicas em Portugal.
-Estes registos são cedidos pela Direção Geral de Energia e Geologia (DGEG), estando de momento apenas abrangidas Unidades de Pequena Produção (UPP) e unidades para autoconsumo. <br> 
+Quanta capacidade fotovoltaica já foi instalada em Portugal? Quais as regiões com maior presença desta tecnologia? Esta plataforma de visualização procura responder a estas e outras perguntas explorando e divulgando, através de um repositório de acesso aberto, os registos de instalações fotovoltaicas em Portugal.
+
+Estes registos foram cedidos pela Direção Geral de Energia e Geologia (DGEG) estando, de momento, apenas abrangidas Unidades de Pequena Produção (UPP) e unidades para autoconsumo.<br> 
 
 <img src="pics/dashboard_print_hq.jpg" alt="imagem_dashboard" width="500" height="280">
 <br><br>
 
 ### <a href="http://energy-commons.com/projetos-fotovoltaicos-media.html" target="_blank">Projetos fotovoltaicos nos *media*</a>
-Conteúdo disponível em meios de comunicação tradicionais, páginas web de empresas do setor, Facebook e LinkedIn. <br> <br>
+Tem ideia de quanta informação sobre projetos de produção fotovoltaica conseguimos encontrar nos meios de comunicação tradicionais, páginas web de empresas do setor, Facebook ou LinkedIn? Venha descobrir! 
+
+<br><br>
 
 ### <a href="http://energy-commons.com/mapa-projetos-fotovoltaicos.html" target="_blank">Mapeamento de projetos fotovoltaicos</a>
 Este mapa complementa a informação representada no Dashboard, oferecendo maior detalhe espacial e descritivo de algumas das instalações fotovoltaicas encontradas nos media. Leu alguma notícia sobre uma instalação? Partilhe connosco e ajude-nos a enriquecer o mapa!
@@ -26,7 +29,7 @@ Este mapa complementa a informação representada no Dashboard, oferecendo maior
 <br><br>
 
 ### <a href="http://energy-commons.com/materiais-variados.html" target="_blank">Recursos vários variados sobre energia fotovoltaica</a>
-Artigos e materiais multimédia, quer portugueses ou internacionais.
+Quer saber mais sobre energia solar fotovoltaiva? Venha consultar artigos e materiais multimédia, quer portugueses ou internacionais.
 De momento é apenas abrangido o tema do autoconsumo coletivo e comunidades energéticas. 
 <br> <br>
 
