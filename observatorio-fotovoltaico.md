@@ -19,16 +19,20 @@ Quanta capacidade fotovoltaica já foi instalada em Portugal? Quais as regiões 
 
 Estes registos foram cedidos pela Direção Geral de Energia e Geologia (DGEG) estando, de momento, apenas abrangidas Unidades de Pequena Produção (UPP) e unidades para autoconsumo.<br> 
 
-<img src="pics/dashboard_print_hq.jpg" alt="imagem_dashboard" width="500" height="280">
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZjUxODBmMzUtMzM1Zi00YTlhLWE0YWItMjI2ZmM0NjRkNmJmIiwidCI6IjBiZmE4NTAwLWIxZjItNDU2Ni1iYWYxLTZmNTkzNzA4OTNlNyIsImMiOjh9" target="_blank">
+<img src="pics/dashboard_print_hq.jpg" alt="imagem_dashboard" width="500" height="280"></a>
 <br><br>
 
 ### <a href="http://energy-commons.com/projetos-fotovoltaicos-media.html" target="_blank">Projetos fotovoltaicos nos *media*</a>
 Tem ideia de quanta informação sobre projetos de produção fotovoltaica conseguimos encontrar nos meios de comunicação tradicionais, páginas web de empresas do setor, Facebook ou LinkedIn? Venha descobrir! 
 
+<br>
+
 ### <a href="http://energy-commons.com/mapa-projetos-fotovoltaicos.html" target="_blank">Mapeamento de projetos fotovoltaicos</a>
 Este mapa complementa a informação representada no dashboard, oferecendo maior detalhe espacial e descritivo de algumas das instalações fotovoltaicas encontradas nos media. Leu alguma notícia sobre uma instalação? Partilhe connosco e ajude-nos a enriquecer o mapa!
 
-<img src="pics/dashboard_maphub_hq.jpg" alt="imagem_maphub" width="500" height="280">
+<a href="http://energy-commons.com/mapa-projetos-fotovoltaicos.html" target="_blank">
+<img src="pics/dashboard_maphub_hq.jpg" alt="imagem_maphub" width="500" height="280"></a>
 <br><br>
 
 ### <a href="http://energy-commons.com/materiais-variados.html" target="_blank">Recursos vários  sobre energia fotovoltaica</a>
