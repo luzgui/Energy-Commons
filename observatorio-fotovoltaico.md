@@ -6,6 +6,7 @@
 
 <!--Repositorio e base de dados aberta para tutoriais, ferramentas computacionais, economia e poltica da Transição Energética-->
 
+<meta property='og:image' content='pics/books.jpg'/>
 
 # Observatório de energia solar fotovoltaica em Portugal
 
