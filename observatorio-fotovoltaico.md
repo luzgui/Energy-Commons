@@ -31,5 +31,5 @@ De momento é apenas abrangido o tema do autoconsumo coletivo e comunidades ener
 <br> <br>
 
 ### <a href="http://energy-commons.com/legislacao-regulamentos.html" target="_blank">Legislação e regulamentos</a>
-Documentação preparada pelo Governo Português ou instituições qualificadas (DGEG, ERSE).
+Quer conhecer as leis e regulamentos que regem a produção de energia solar fotovoltaica em Portugal? Encontre aqui documentação preparada pelo Governo Português ou instituições qualificadas (DGEG, ERSE). 
 De momento é apenas considerado o tema do autoconsumo e as comunidades de Energia.
