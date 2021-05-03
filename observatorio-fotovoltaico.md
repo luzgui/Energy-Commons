@@ -6,9 +6,11 @@
 
 <!--Repositorio e base de dados aberta para tutoriais, ferramentas computacionais, economia e poltica da Transição Energética-->
 
+<head>
 <meta property="og:title" content="How to Become an SEO Expert (8 Steps)" />
 <meta property="og:description" content="Get from SEO newbie to SEO pro in 8 simple steps." />
-<meta property="og:image" content="https://media-exp1.licdn.com/dms/image/C4E22AQHQEb9FqEh64g/feedshare-shrink_1280/0/1620050425810?e=1622678400&v=beta&t=93RPRnhFSuVUmfVzNYAOUAwTsfbjr5GA5LPDviNQfRQ" />
+<meta property="og:image" content="https://ibb.co/HT5BpmR" />
+</head>
 
 # Observatório de energia solar fotovoltaica em Portugal
 
