@@ -8,8 +8,8 @@ Repository and open database for tutorials, computational tools, software implem
 
 
 # Projetos fotovoltaicos nos *media*
-
-Conteúdo disponível nos meios de comunicação tradicionais, páginas web de empresas do setor, Facebook e LinkedIn. <br>
+Tem ideia de quanta informação sobre projetos de produção fotovoltaica conseguimos encontrar nos meios de comunicação tradicionais, 
+páginas web de empresas do setor, Facebook ou LinkedIn? Venha descobrir!<br>
 
 <details open>
 <summary> <span style="font-size:18px;"> Iniciativas privadas </span></summary>

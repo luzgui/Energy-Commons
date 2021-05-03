@@ -8,6 +8,10 @@ Repository and open database for tutorials, computational tools, software implem
 
 # Legislação e regulação em Portugal
 
+Quer conhecer as leis e regulamentos que regem a produção de energia solar fotovoltaica em Portugal? Encontre aqui documentação preparada pelo Governo Português ou instituições qualificadas (DGEG, ERSE). 
+De momento é apenas considerado o tema do autoconsumo e as comunidades de Energia.
+
+
 ## Autoconsumo Coletivo e Comunidades de Energia
 
 <details open>
