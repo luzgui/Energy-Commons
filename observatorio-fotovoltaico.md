@@ -10,9 +10,8 @@
 # Observatório de energia solar fotovoltaica em Portugal
 
 ### <a href="https://app.powerbi.com/view?r=eyJrIjoiNTY0MDgxZWQtOGZhMi00ZWVkLTgwYjMtOTk2ZGIzY2QyMGFlIiwidCI6IjBiZmE4NTAwLWIxZjItNDU2Ni1iYWYxLTZmNTkzNzA4OTNlNyIsImMiOjh9&pageName=ReportSection3aef81d4ad9a6bde8430" target="_blank">Dashboard: fotovoltaico em Portugal</a>
-Plataforma de visualização que analisa os registos de instalações fotovoltaicas da Direção Geral de Energia e Geologia (DGEG), 
-complementado por um repositório de acesso aberto. 
-De momento apenas estão abrangidas Unidades de Pequena Produção (UPP) e unidades para autoconsumo. <br> 
+Plataforma de visualização, complementado por um repositório de acesso aberto, que analisa os registos de instalações fotovoltaicas em Portugal.
+Estes registos são cedidos pela Direção Geral de Energia e Geologia (DGEG), estando de momento apenas abrangidas Unidades de Pequena Produção (UPP) e unidades para autoconsumo. <br> 
 
 <img src="pics/dashboard_print_hq.jpg" alt="imagem_dashboard" width="500" height="280">
 <br><br>
