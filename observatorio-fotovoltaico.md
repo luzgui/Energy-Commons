@@ -14,7 +14,7 @@ Plataforma de visualização que analisa os registos de instalações fotovoltai
 complementado por um repositório de acesso aberto. 
 De momento apenas estão abrangidas Unidades de Pequena Produção (UPP) e unidades para autoconsumo. <br> 
 
-![imagem_dashboard](pics/dashboard_print.png)
+![imagem_dashboard](pics/dashboard_print_hq.jpg)
 <br><br>
 
 ### <a href="http://energy-commons.com/projetos-fotovoltaicos-media.html" target="_blank">Projetos fotovoltaicos nos *media*</a>
