@@ -9,7 +9,7 @@
 
 # Observatório de energia solar fotovoltaica em Portugal
 
-Siga a <a href="www.linkedin.com/company/observatorio-fotovoltaico" target="_blank">página de LinkedIn do Observatório</a> e esteja a par de novidades.
+Siga a <a href="http://www.linkedin.com/company/observatorio-fotovoltaico" target="_blank"> página de LinkedIn do Observatório</a> e esteja a par de novidades.
 <br>
 Qualquer sugestão ou pergunta, enviar e-mail para rasilva@fc.ul.pt
 <br><br>
