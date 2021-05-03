@@ -21,8 +21,7 @@ De momento apenas estão abrangidas Unidades de Pequena Produção (UPP) e unida
 Conteúdo disponível em meios de comunicação tradicionais, páginas web de empresas do setor, Facebook e LinkedIn. <br> <br>
 
 ### <a href="http://energy-commons.com/mapa-projetos-fotovoltaicos.html" target="_blank">Mapeamento de projetos fotovoltaicos</a>
-Georreferenciação de projetos identificados na secção anterior.
-Apesar de menos completo que os registos da DGEG, oferece maior detalhe (em termos de localização e aplicação). <br>
+Este mapa complementa a informação representada no Dashboard, oferecendo maior detalhe espacial e descritivo de algumas das instalações fotovoltaicas encontradas nos media. Leu alguma notícia sobre uma instalação? Partilhe connosco e ajude-nos a enriquecer o mapa!
 
 <img src="pics/dashboard_maphub_hq.jpg" alt="imagem_maphub" width="500" height="280">
 <br><br>
