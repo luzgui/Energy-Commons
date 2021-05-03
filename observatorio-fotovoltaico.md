@@ -6,7 +6,7 @@
 
 <!--Repositorio e base de dados aberta para tutoriais, ferramentas computacionais, economia e poltica da Transição Energética-->
 
-<meta property='og:image' content='pics/books.jpg'/>
+<meta property='og:image' content='https://github.com/luzgui/Energy-Commons/blob/master/pics/books.jpg?raw=true'/>
 
 # Observatório de energia solar fotovoltaica em Portugal
 
