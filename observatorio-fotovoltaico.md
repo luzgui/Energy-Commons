@@ -7,9 +7,9 @@
 <!--Repositorio e base de dados aberta para tutoriais, ferramentas computacionais, economia e poltica da Transição Energética-->
 
 <head>
-<meta property="og:title" content="How to Become an SEO Expert (8 Steps)" />
-<meta property="og:description" content="Get from SEO newbie to SEO pro in 8 simple steps." />
-<meta property="og:image" content="https://ibb.co/HT5BpmR" />
+<meta name="title" property="og:title" content="[Content title here]">
+<meta name="description" property="og:description" content="[Content description here2]">
+<meta name="image" property="og:image" content="https://ibb.co/HT5BpmR">
 </head>
 
 # Observatório de energia solar fotovoltaica em Portugal
