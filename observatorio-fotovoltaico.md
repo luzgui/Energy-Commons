@@ -24,7 +24,7 @@ Conteúdo disponível em meios de comunicação tradicionais, páginas web de em
 Georreferenciação de projetos identificados na secção anterior.
 Apesar de menos completo que os registos da DGEG, oferece maior detalhe (em termos de localização e aplicação). <br>
 
-![imagem_maphub](pics/maphub_print.png)
+<img src="pics/dashboard_maphub_hq.jpg" alt="imagem_maphub" width="500" height="280">
 <br><br>
 
 ### <a href="http://energy-commons.com/materiais-variados.html" target="_blank">Materiais variados sobre energia fotovoltaica</a>
