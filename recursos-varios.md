@@ -1,6 +1,6 @@
-# Materiais variados sobre energia fotovoltaica
+# Recursos vários sobre energia fotovoltaica
 
-Textos, webinars, seminários e conferências de divulgação e discussão, quer portugueses ou internacionais.
+Artigos e materiais multimédia, quer portugueses ou internacionais.
 De momento é apenas abrangido o tema do autoconsumo coletivo e comunidades energéticas. <br> <br>
 
 <details open>
@@ -21,7 +21,7 @@ De momento é apenas abrangido o tema do autoconsumo coletivo e comunidades ener
 </details>
 
 <details open>
-<summary> <span style="font-size:20px;">Eventos</span></summary>
+<summary> <span style="font-size:20px;">Registo vídeo de eventos</span></summary>
 
 <ul>
 <li> Seminário <a href="https://www.youtube.com/watch?v=TJt7GP-mCgE" target="_blank">"Como criar comunidades de energia"</a>, 04/02/2020 (Faculdade de Engenharia da Universidade do Porto).  </li> 

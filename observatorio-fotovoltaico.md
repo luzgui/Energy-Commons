@@ -26,8 +26,8 @@ Este mapa complementa a informação representada no Dashboard, oferecendo maior
 <img src="pics/dashboard_maphub_hq.jpg" alt="imagem_maphub" width="500" height="280">
 <br><br>
 
-### <a href="http://energy-commons.com/materiais-variados.html" target="_blank">Materiais variados sobre energia fotovoltaica</a>
-Textos, webinars, seminários e conferências de divulgação e discussão, quer portugueses ou internacionais.
+### <a href="http://energy-commons.com/materiais-variados.html" target="_blank">Recursos vários variados sobre energia fotovoltaica</a>
+Artigos e materiais multimédia, quer portugueses ou internacionais.
 De momento é apenas abrangido o tema do autoconsumo coletivo e comunidades energéticas. 
 <br> <br>
 
