@@ -3,7 +3,6 @@
 Georreferenciação de projetos identificados na secção anterior.
 Apesar de menos completo que os registos da DGEG, oferece maior detalhe (em termos de localização e aplicação).
 
-<br><br>
 
 Visualização desenvolvida em <a href="https://maphub.net/rasilva/mapa-de-instalacoes-de-autoconsumo-fotovoltaico" target="_blank">MapHub</a>.
 
