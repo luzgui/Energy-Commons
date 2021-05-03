@@ -7,7 +7,7 @@ De momento é apenas abrangido o tema do autoconsumo coletivo e comunidades ener
 <summary> <span style="font-size:20px;">Artigos </span></summary>
 <ul>
 
-<li> Revista <a href="https://www.renovaveismagazine.pt/">Renováveis Magazine</a> Edição nº41 (<a href="https://www.renovaveismagazine.pt/revista-2/">Download aqui</a>) </li>
+<li> Revista <a href="https://www.renovaveismagazine.pt/" target="_blank">Renováveis Magazine</a> Edição nº41 (<a href="https://www.renovaveismagazine.pt/revista-2/" target="_blank">Download aqui</a>) </li>
 
 <p></p>Contém um especial autoconsumo coletivo com diversos artigos de interesse: 
 
@@ -24,15 +24,15 @@ De momento é apenas abrangido o tema do autoconsumo coletivo e comunidades ener
 <summary> <span style="font-size:20px;">Eventos</span></summary>
 
 <ul>
-<li> Seminário <a href="https://www.youtube.com/watch?v=TJt7GP-mCgE">"Como criar comunidades de energia"</a>, 04/02/2020 (Faculdade de Engenharia da Universidade do Porto).  </li> 
+<li> Seminário <a href="https://www.youtube.com/watch?v=TJt7GP-mCgE" target="_blank">"Como criar comunidades de energia"</a>, 04/02/2020 (Faculdade de Engenharia da Universidade do Porto).  </li> 
 <br>
 
-<li> Webinar ERSE sobre a <a href="https://www.youtube.com/watch?v=TjNuCm4gFjM"> Partilha de Energia no Autoconsumo Coletivo</a>, 25/06/2020 (online) </li>
+<li> Webinar ERSE sobre a <a href="https://www.youtube.com/watch?v=TjNuCm4gFjM" target="_blank"> Partilha de Energia no Autoconsumo Coletivo</a>, 25/06/2020 (online) </li>
 <br>
 
-<li> Webinar Lisboa E-Nova sobre <a href="https://www.youtube.com/watch?v=q4lRIdWtT7w"> Autoconsumo Coletivo e Comunidades de Energia Renovável"</a>, 23/11/2020 (online) </li>
+<li> Webinar Lisboa E-Nova sobre <a href="https://www.youtube.com/watch?v=q4lRIdWtT7w" target="_blank"> Autoconsumo Coletivo e Comunidades de Energia Renovável"</a>, 23/11/2020 (online) </li>
 <br>
 
-<li> Webinar FOTOPLAT sobre <a href="https://www.youtube.com/watch?v=5xS06A5mmdw"> Autoconsumo compartido en el contexto urbano: ejemplos en tipologías residenciales"</a>, 10/12/2020 (online) </li>
+<li> Webinar FOTOPLAT sobre <a href="https://www.youtube.com/watch?v=5xS06A5mmdw" target="_blank"> Autoconsumo compartido en el contexto urbano: ejemplos en tipologías residenciales"</a>, 10/12/2020 (online) </li>
 </ul>
 </details>
