@@ -21,7 +21,7 @@ Estes registos foram cedidos pela Direção Geral de Energia e Geologia (DGEG) e
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiZjUxODBmMzUtMzM1Zi00YTlhLWE0YWItMjI2ZmM0NjRkNmJmIiwidCI6IjBiZmE4NTAwLWIxZjItNDU2Ni1iYWYxLTZmNTkzNzA4OTNlNyIsImMiOjh9" target="_blank">
 <img src="pics/dashboard_print_hq.jpg" alt="imagem_dashboard" width="500" height="280"></a>
-<br><br>
+<br><br><br>
 
 ### <a href="http://energy-commons.com/projetos-fotovoltaicos-media.html" target="_blank">Projetos fotovoltaicos nos *media*</a>
 Tem ideia de quanta informação sobre projetos de produção fotovoltaica conseguimos encontrar nos meios de comunicação tradicionais, páginas web de empresas do setor, Facebook ou LinkedIn? Venha descobrir! 
