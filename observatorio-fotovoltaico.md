@@ -24,7 +24,7 @@ Quanta capacidade fotovoltaica já foi instalada em Portugal? Quais as regiões 
 
 Estes registos foram cedidos pela Direção Geral de Energia e Geologia (DGEG) estando, de momento, apenas abrangidas Unidades de Pequena Produção (UPP) e unidades para autoconsumo.<br> 
 
-<a href="https://app.powerbi.com/view?r=eyJrIjoiZjUxODBmMzUtMzM1Zi00YTlhLWE0YWItMjI2ZmM0NjRkNmJmIiwidCI6IjBiZmE4NTAwLWIxZjItNDU2Ni1iYWYxLTZmNTkzNzA4OTNlNyIsImMiOjh9" target="_blank">
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZjUxODBmMzUtMzM1Zi00YTlhLWE0YWItMjI2ZmM0NjRkNmJmIiwidCI6IjBiZmE4NTAwLWIxZjItNDU2Ni1iYWYxLTZmNTkzNzA4OTNlNyIsImMiOjh9&pageName=ReportSection3aef81d4ad9a6bde8430" target="_blank">
 <img src="pics/dashboard_print_hq.jpg" alt="imagem_dashboard" width="500" height="280"></a>
 <br><br><br>
 
