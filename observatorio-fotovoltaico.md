@@ -19,12 +19,12 @@ Siga a <a href="http://www.linkedin.com/company/observatorio-fotovoltaico" targe
 Qualquer sugestão ou pergunta, enviar e-mail para rasilva@fc.ul.pt
 <br><br>
 
-### <a href="https://app.powerbi.com/view?r=eyJrIjoiZjUxODBmMzUtMzM1Zi00YTlhLWE0YWItMjI2ZmM0NjRkNmJmIiwidCI6IjBiZmE4NTAwLWIxZjItNDU2Ni1iYWYxLTZmNTkzNzA4OTNlNyIsImMiOjh9" target="_blank">Dashboard: fotovoltaico em Portugal</a>
+### <a href="https://app.powerbi.com/view?r=eyJrIjoiM2FiMmM4MWItMDYyZS00OWIzLTk4MmUtZGQ1ZjM3OGI2YzA5IiwidCI6IjBiZmE4NTAwLWIxZjItNDU2Ni1iYWYxLTZmNTkzNzA4OTNlNyIsImMiOjh9" target="_blank">Dashboard: fotovoltaico em Portugal</a>
 Quanta capacidade fotovoltaica já foi instalada em Portugal? Quais as regiões com maior presença desta tecnologia? Esta plataforma de visualização procura responder a estas e outras perguntas explorando e divulgando, através de um repositório de acesso aberto, os registos de instalações fotovoltaicas em Portugal.
 
 Estes registos foram cedidos pela Direção Geral de Energia e Geologia (DGEG) estando, de momento, apenas abrangidas Unidades de Pequena Produção (UPP) e unidades para autoconsumo.<br> 
 
-<a href="https://app.powerbi.com/view?r=eyJrIjoiZjUxODBmMzUtMzM1Zi00YTlhLWE0YWItMjI2ZmM0NjRkNmJmIiwidCI6IjBiZmE4NTAwLWIxZjItNDU2Ni1iYWYxLTZmNTkzNzA4OTNlNyIsImMiOjh9&pageName=ReportSection3aef81d4ad9a6bde8430" target="_blank">
+<a href="https://app.powerbi.com/view?r=eyJrIjoiM2FiMmM4MWItMDYyZS00OWIzLTk4MmUtZGQ1ZjM3OGI2YzA5IiwidCI6IjBiZmE4NTAwLWIxZjItNDU2Ni1iYWYxLTZmNTkzNzA4OTNlNyIsImMiOjh9" target="_blank">
 <img src="pics/dashboard_print_hq.jpg" alt="imagem_dashboard" width="500" height="280"></a>
 <br><br><br>
 
