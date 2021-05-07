@@ -27,8 +27,6 @@ De momento é apenas considerado o tema do autoconsumo e as comunidades de Energ
 
 </details>
 
-<br>
-
 <details open>
 <summary> <span style="font-size:18px; " target="_blank"> Regulação </span> </summary>
 
