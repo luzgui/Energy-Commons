@@ -1,7 +1,7 @@
 # Recursos vários sobre energia fotovoltaica
 
 Quer saber mais sobre energia solar fotovoltaica? Consulte aqui artigos e materiais multimédia, quer portugueses ou internacionais.
-De momento é apenas abrangido o tema do autoconsumo coletivo e comunidades energéticas.<br> <br>
+De momento é apenas abrangido o tema do autoconsumo coletivo e comunidades energéticas.<br>
 
 <details open>
 <summary> <span style="font-size:20px;">Artigos </span></summary>
