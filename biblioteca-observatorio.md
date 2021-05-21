@@ -7,17 +7,15 @@
 
 # Biblioteca do Observatório
 
+ <br>
+
 ### <a href="http://energy-commons.com/legislacao-regulamentos.html" target="_blank">Legislação e regulamentos</a>
 Quer conhecer as leis e regulamentos que regem a produção de energia solar fotovoltaica em Portugal? Encontre aqui documentação preparada pelo Governo Português ou instituições qualificadas (DGEG, ERSE). 
 De momento é apenas considerado o tema do autoconsumo e as comunidades de Energia.
 
- <br>
-
 ### <a href="http://energy-commons.com/projetos-fotovoltaicos-media.html" target="_blank">Projetos fotovoltaicos nos *media*</a>
 Consegue imaginar a quantidade de informação sobre projetos fotovoltaicos conseguimos encontrar nos meios de comunicação tradicionais, páginas web de empresas do setor, Facebook ou LinkedIn? Venha descobrir!
 Brevemente esta secção irá incluir conteúdo relacionado com legislação ou artigos de opinião.
-
-<br>
 
 ### <a href="http://energy-commons.com/materiais-variados.html" target="_blank">Outros recursos sobre energia fotovoltaica</a>
 Quer saber mais sobre energia solar fotovoltaica? Aqui poderá encontrar artigos técnicos e webinars, quer portugueses ou internacionais.
