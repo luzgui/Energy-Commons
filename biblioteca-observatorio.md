@@ -7,9 +7,8 @@
 
 # Biblioteca do Observatório
 
-<br>
 Explore as "estantes" desta biblioteca, onde poderá encontrar materiais sobre leglislação e regulamentação, conteúdos media sobre o setor, artigos técnicos ou webinars.
-<br>
+<br><br>
 
 ### <a href="http://energy-commons.com/legislacao-regulamentos.html" target="_blank">Legislação e regulamentos</a>
 Quer conhecer as leis e regulamentos que regem a produção de energia solar fotovoltaica em Portugal? Encontre aqui documentação preparada pelo Governo Português ou instituições qualificadas (DGEG, ERSE). 
