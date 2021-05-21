@@ -34,6 +34,7 @@ De momento é apenas abrangido o tema do autoconsumo coletivo e comunidades ener
 <br>
 
 <li> Webinar FOTOPLAT sobre <a href="https://www.youtube.com/watch?v=5xS06A5mmdw" target="_blank"> Autoconsumo compartido en el contexto urbano: ejemplos en tipologías residenciales"</a>, 10/12/2020 (online) </li>
+<br>
 
 <li> Webinar NEW R&D sobre <a href="https://www.youtube.com/watch?v=rfRm3FvAON0" target="_blank"> As Comunidades de Energia Renovável"</a>, 10/12/2020 (online) </li>
 
