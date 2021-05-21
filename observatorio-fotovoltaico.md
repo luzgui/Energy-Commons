@@ -29,6 +29,7 @@ Estes registos foram cedidos pela Direção Geral de Energia e Geologia (DGEG) e
 <br><br><br>
 
 ### <a href="http://energy-commons.com/biblioteca-observatorio.html" target="_blank">Biblioteca do Observatório</a>
+Explore as "estantes" desta biblioteca, onde poderá encontrar materiais sobre leglislação e regulamentação, conteúdos media sobre o setor, artigos técnicos ou webinars.
 
 <br>
 
