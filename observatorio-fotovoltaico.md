@@ -28,8 +28,7 @@ Estes registos foram cedidos pela Direção Geral de Energia e Geologia (DGEG) e
 <img src="pics/dashboard_print_hq.jpg" alt="imagem_dashboard" width="500" height="280"></a>
 <br><br><br>
 
-### <a href="http://energy-commons.com/projetos-fotovoltaicos-media.html" target="_blank">Projetos fotovoltaicos nos *media*</a>
-Tem ideia de quanta informação sobre projetos de produção fotovoltaica conseguimos encontrar nos meios de comunicação tradicionais, páginas web de empresas do setor, Facebook ou LinkedIn? Venha descobrir! 
+### <a href="http://energy-commons.com/biblioteca-observatório.html" target="_blank">Biblioteca do Observatório</a>
 
 <br>
 
@@ -38,13 +37,3 @@ Este mapa complementa a informação representada no dashboard, oferecendo maior
 
 <a href="http://energy-commons.com/mapa-projetos-fotovoltaicos.html" target="_blank">
 <img src="pics/dashboard_maphub_hq.jpg" alt="imagem_maphub" width="500" height="280"></a>
-<br><br>
-
-### <a href="http://energy-commons.com/materiais-variados.html" target="_blank">Recursos vários  sobre energia fotovoltaica</a>
-Quer saber mais sobre energia solar fotovoltaica? Venha consultar artigos e materiais multimédia, quer portugueses ou internacionais.
-De momento é apenas abrangido o tema do autoconsumo coletivo e comunidades energéticas. 
-<br> <br>
-
-### <a href="http://energy-commons.com/legislacao-regulamentos.html" target="_blank">Legislação e regulamentos</a>
-Quer conhecer as leis e regulamentos que regem a produção de energia solar fotovoltaica em Portugal? Encontre aqui documentação preparada pelo Governo Português ou instituições qualificadas (DGEG, ERSE). 
-De momento é apenas considerado o tema do autoconsumo e as comunidades de Energia.
