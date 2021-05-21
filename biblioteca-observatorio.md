@@ -18,6 +18,6 @@ De momento é apenas considerado o tema do autoconsumo e as comunidades de Energ
 Consegue imaginar a quantidade de informação sobre projetos fotovoltaicos conseguimos encontrar nos meios de comunicação tradicionais, páginas web de empresas do setor, Facebook ou LinkedIn? Venha descobrir!
 Brevemente esta secção irá incluir conteúdo relacionado com legislação ou artigos de opinião.
 
-### <a href="http://energy-commons.com/materiais-variados.html" target="_blank">Outros recursos sobre energia fotovoltaica</a>
+### <a href="http://energy-commons.com/outros-recursos.html" target="_blank">Outros recursos sobre energia fotovoltaica</a>
 Quer saber mais sobre energia solar fotovoltaica? Aqui poderá encontrar artigos técnicos e webinars, quer portugueses ou internacionais.
 De momento é apenas abrangido o tema do autoconsumo coletivo e comunidades energéticas. 
