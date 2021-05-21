@@ -28,7 +28,7 @@ Estes registos foram cedidos pela Direção Geral de Energia e Geologia (DGEG) e
 <img src="pics/dashboard_print_hq.jpg" alt="imagem_dashboard" width="500" height="280"></a>
 <br><br><br>
 
-### <a href="http://energy-commons.com/biblioteca-observatório.html" target="_blank">Biblioteca do Observatório</a>
+### <a href="http://energy-commons.com/biblioteca-observatorio.html" target="_blank">Biblioteca do Observatório</a>
 
 <br>
 
