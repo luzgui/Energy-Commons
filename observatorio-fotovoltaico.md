@@ -12,7 +12,7 @@
 <meta name="image" property="og:image" content="https://ibb.co/HT5BpmR">
 </head>
 
-# Observatório de energia solar fotovoltaica em Portugal
+# Observatório Fotovoltaico
 
 Siga a <a href="http://www.linkedin.com/company/observatorio-fotovoltaico" target="_blank"> página de LinkedIn do Observatório</a> e esteja a par de novidades.
 <br>
