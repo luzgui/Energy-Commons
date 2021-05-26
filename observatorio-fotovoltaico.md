@@ -20,21 +20,23 @@ Qualquer sugestão ou pergunta, enviar e-mail para rasilva@fc.ul.pt
 <br><br>
 
 ### <a href="https://app.powerbi.com/view?r=eyJrIjoiM2FiMmM4MWItMDYyZS00OWIzLTk4MmUtZGQ1ZjM3OGI2YzA5IiwidCI6IjBiZmE4NTAwLWIxZjItNDU2Ni1iYWYxLTZmNTkzNzA4OTNlNyIsImMiOjh9" target="_blank">Dashboard: fotovoltaico em Portugal</a>
-Quanta capacidade fotovoltaica já foi instalada em Portugal? Quais as regiões com maior presença desta tecnologia? Esta plataforma de visualização procura responder a estas e outras perguntas explorando e divulgando, através de um repositório de acesso aberto, os registos de instalações fotovoltaicas em Portugal.
+Quanta capacidade fotovoltaica já foi instalada em Portugal? Quais as regiões com maior presença desta tecnologia? Venha descobrir a resposta a estas e outras perguntas nesta plataforma de visualização, podendo aproveitar também para aceder a um repositório de dados de acesso aberto.
 
-Estes registos foram cedidos pela Direção Geral de Energia e Geologia (DGEG) estando, de momento, apenas abrangidas Unidades de Pequena Produção (UPP) e unidades para autoconsumo.<br> 
+De momento, são analisados registos cedidos pela Direção Geral de Energia e Geologia (DGEG), estando, de momento, abrangidas apenas abrangidas Unidades de Pequena Produção e unidades para autoconsumo.<br> 
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiM2FiMmM4MWItMDYyZS00OWIzLTk4MmUtZGQ1ZjM3OGI2YzA5IiwidCI6IjBiZmE4NTAwLWIxZjItNDU2Ni1iYWYxLTZmNTkzNzA4OTNlNyIsImMiOjh9" target="_blank">
 <img src="pics/dashboard_print_hq.jpg" alt="imagem_dashboard" width="500" height="280"></a>
 <br><br><br>
 
 ### <a href="http://energy-commons.com/biblioteca-observatorio.html" target="_blank">Biblioteca do Observatório</a>
-Explore as "estantes" desta biblioteca, onde poderá encontrar materiais sobre leglislação e regulamentação, conteúdos media sobre o setor, artigos técnicos ou webinars.
+Explore "estantes" bastante variadas, onde poderá encontrar materiais sobre leglislação e regulamentação, conteúdos media sobre o setor, artigos técnicos ou webinars.
 
 <br>
 
 ### <a href="http://energy-commons.com/mapa-projetos-fotovoltaicos.html" target="_blank">Mapeamento de projetos fotovoltaicos</a>
-Este mapa complementa a informação representada no dashboard, oferecendo maior detalhe espacial e descritivo de algumas das instalações fotovoltaicas encontradas nos media. Leu alguma notícia sobre uma instalação? Partilhe connosco e ajude-nos a enriquecer o mapa!
+Gostava de conhecer projetos fotovoltaicos com maior detalhe? Explore o mapa que montámos com base em alguns dos materias que podemos encontrar na biblioteca.
+
+Leu alguma notícia sobre uma instalação? Partilhe connosco e ajude-nos a enriquecer o mapa!
 
 <a href="http://energy-commons.com/mapa-projetos-fotovoltaicos.html" target="_blank">
 <img src="pics/dashboard_maphub_hq.jpg" alt="imagem_maphub" width="500" height="280"></a>
