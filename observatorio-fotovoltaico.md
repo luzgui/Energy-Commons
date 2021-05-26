@@ -34,7 +34,7 @@ Explore "estantes" bastante variadas, onde poderá encontrar materiais sobre leg
 <br>
 
 ### <a href="http://energy-commons.com/mapa-projetos-fotovoltaicos.html" target="_blank">Mapeamento de projetos fotovoltaicos</a>
-Gostava de conhecer projetos fotovoltaicos com maior detalhe? Explore o mapa que montámos com base em alguns dos materias que podemos encontrar na biblioteca.
+Gostava de conhecer projetos fotovoltaicos em maior detalhe? Explore o mapa que montámos com base em alguns dos materias que podemos encontrar na biblioteca.
 
 Leu alguma notícia sobre uma instalação? Partilhe connosco e ajude-nos a enriquecer o mapa!
 
