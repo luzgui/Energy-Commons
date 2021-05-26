@@ -20,7 +20,7 @@ Qualquer sugestão ou pergunta, enviar e-mail para rasilva@fc.ul.pt
 <br><br>
 
 ### <a href="https://app.powerbi.com/view?r=eyJrIjoiM2FiMmM4MWItMDYyZS00OWIzLTk4MmUtZGQ1ZjM3OGI2YzA5IiwidCI6IjBiZmE4NTAwLWIxZjItNDU2Ni1iYWYxLTZmNTkzNzA4OTNlNyIsImMiOjh9" target="_blank">Dashboard: fotovoltaico em Portugal</a>
-Quanta capacidade fotovoltaica já foi instalada em Portugal? Quais as regiões com maior presença desta tecnologia? Venha descobrir a resposta a estas e outras perguntas nesta plataforma de visualização, podendo aproveitar também para aceder a um repositório de dados de acesso aberto.
+Quanta capacidade fotovoltaica já foi instalada em Portugal? Quais as regiões com maior presença desta tecnologia? Venha descobrir a resposta a estas e outras perguntas, podendo também aceder a um repositório de dados de acesso aberto.
 
 De momento, são analisados registos cedidos pela Direção Geral de Energia e Geologia (DGEG), estando, de momento, abrangidas apenas abrangidas Unidades de Pequena Produção e unidades para autoconsumo.<br> 
 
