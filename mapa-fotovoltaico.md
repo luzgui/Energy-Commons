@@ -1,8 +1,6 @@
 # Mapa do fotovoltaico
 
-Mapeamento e contextualização de projetos fotovoltaicos em Portugal, funcionando como complemento ao <a href="https://app.powerbi.com/view?r=eyJrIjoiNTY0MDgxZWQtOGZhMi00ZWVkLTgwYjMtOTk2ZGIzY2QyMGFlIiwidCI6IjBiZmE4NTAwLWIxZjItNDU2Ni1iYWYxLTZmNTkzNzA4OTNlNyIsImMiOjh9&pageName=ReportSection3aef81d4ad9a6bde8430" target="_blank">Dashboard do Fotovoltaico</a>.
-
-Apesar de a base de dados de projetos aqui considerada ser bastante mais reduzida, cada caso é descrito em termos de localização e descrição com um nível de detalhe bastante superior.
+Gostava de conhecer projetos fotovoltaicos em maior detalhe? Explore o mapa que montámos com base em alguns dos materias que podemos encontrar na biblioteca.
 
 Leu alguma notícia sobre uma instalação? Partilhe connosco e ajude-nos a enriquecer o mapa!
 
