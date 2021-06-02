@@ -28,15 +28,15 @@ De momento, são analisados registos cedidos pela Direção Geral de Energia e G
 <img src="pics/dashboard_print_hq.jpg" alt="imagem_dashboard" width="500" height="280"></a>
 <br><br><br>
 
-### <a href="http://energy-commons.com/biblioteca-observatorio.html" target="_blank">Biblioteca do Fotovoltaico</a>
+### <a href="http://energy-commons.com/biblioteca-fotovoltaico.html" target="_blank">Biblioteca do Fotovoltaico</a>
 Explore "estantes" bastante variadas, onde poderá encontrar materiais sobre leglislação e regulamentação, conteúdos media sobre o setor, artigos técnicos ou webinars.
 
 <br>
 
-### <a href="http://energy-commons.com/mapa-projetos-fotovoltaicos.html" target="_blank">Mapa do Fotovoltaico</a>
+### <a href="http://energy-commons.com/mapa-fotovoltaico.html" target="_blank">Mapa do Fotovoltaico</a>
 Gostava de conhecer projetos fotovoltaicos em maior detalhe? Explore o mapa que montámos com base em alguns dos materias que podemos encontrar na biblioteca.
 
 Leu alguma notícia sobre uma instalação? Partilhe connosco e ajude-nos a enriquecer o mapa!
 
-<a href="http://energy-commons.com/mapa-projetos-fotovoltaicos.html" target="_blank">
+<a href="http://energy-commons.com/mapa-fotovoltaico.html" target="_blank">
 <img src="pics/dashboard_maphub_hq.jpg" alt="imagem_maphub" width="500" height="280"></a>
