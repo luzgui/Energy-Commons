@@ -5,7 +5,7 @@
 
 <!--Repositorio e base de dados aberta para tutoriais, ferramentas computacionais, economia e poltica da Transição Energética-->
 
-# Biblioteca do Observatório
+# Biblioteca do Fotovoltaico
 
 Explore as "estantes" desta biblioteca, onde poderá encontrar materiais sobre leglislação e regulamentação, conteúdos media sobre o setor, artigos técnicos ou webinars.
 <br><br>
