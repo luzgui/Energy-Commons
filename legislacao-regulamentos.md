@@ -35,7 +35,7 @@ De momento é apenas considerado o tema do autoconsumo e as comunidades de Energ
 <summary> <span style="font-size:16px; " target="_blank"> Entidade Reguladora dos Serviços Energéticos (ERSE) </span> </summary>
 
 <ul>
-<li> <a href="https://dre.pt/application/conteudo/130469272" target="_blank">Regulamento 8/2021</a>, publicado em Abril de 2021 e que regulamenta as atividades de autoconsumo e comunidades de energia renovável (revogando o Regulamento 266/2020) </li>
+<li> <a href="https://www.erse.pt/media/b5rmusyr/regulamento-erse-n-%C2%BA-8_2021.pdf" target="_blank">Regulamento 8/2021</a>, publicado em Abril de 2021 e que regulamenta as atividades de autoconsumo e comunidades de energia renovável (revogando o Regulamento 266/2020) </li>
 
 <li> <a href="https://dre.pt/application/conteudo/130469272" target="_blank">Regulamento 266/2020</a> (revogado), publicado em Março de 2020 e que regulamenta as atividades de autoconsumo de energia elétrica em Portugal </li>
 
