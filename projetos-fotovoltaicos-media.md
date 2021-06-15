@@ -36,7 +36,7 @@ páginas web de empresas do setor, Facebook ou LinkedIn? Venha descobrir!<br>
 
 <li> <a href="https://www.publico.pt/2015/05/04/local/noticia/edia-recorre-a-energia-solar-para-reduzir-custos-no-regadio-em-alqueva-1694491" target="_blank">EDIA recorre à energia solar para reduzir custos no regadio em Alqueva</a> (Público, 05/2015) </li>
 
-<li> <a href="http://www.correioalentejo.com/?diaria=13669" target="_blank">Sede da EDIA é o edifício "mais verde" de Beja</a> (Correio do Alentejo, 06/2015) </li>
+<li> <a href="https://correioalentejo.com/sede-da-edia-e-o-edificio-mais-verde-de-beja/" target="_blank">Sede da EDIA é o edifício "mais verde" de Beja</a> (Correio do Alentejo, 06/2015) </li>
 
 <li> <a href="https://www.dnoticias.pt/2015/6/4/80237-novo-hotel-de-10-milhoes-de-euros-abre-portas-em-peniche-com-forte-aposta-na-ecologia/" target="_blank">Novo hotel de 10 milhões de euros abre portas em Peniche com forte aposta na tecnologia</a> (Diário de Notícias, 06/2015) </li>
 
