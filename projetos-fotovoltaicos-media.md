@@ -271,8 +271,7 @@ páginas web de empresas do setor, Facebook ou LinkedIn? Venha descobrir!<br>
 <li> <a href="https://www.dinheirovivo.pt/empresas/lidl-aposta-no-verde-fornecimento-e-100-de-energia-renovavel/
 " target="_blank">Lidl aposta no verde. Fornecimento das lojas é 100% de energia renovável</a> (Dinheiro Vivo, 01/2020)</li>
 
-<li> <a href="https://correiodominho.pt/noticias/dst-solar-executa-oito-centrais-fotovoltaicas/122283/
-" target="_blank">dst solar executa oito centrais fotovoltaicas</a> (Correio do Minho, 01/2020)</li>
+<li> <a href="https://correiodominho.pt/noticias/dst-solar-executa-oito-centrais-fotovoltaicas/122283" target="_blank">dst solar executa oito centrais fotovoltaicas</a> (Correio do Minho, 01/2020)</li>
 
 <li> <a href="https://www.dinheirovivo.pt/empresas/dono-do-intermarche-investe-em-energia-solar/" target="_blank">Dono do Intermarché investe em energia solar</a> (Dinheiro Vivo, 01/2020)</li>
 
