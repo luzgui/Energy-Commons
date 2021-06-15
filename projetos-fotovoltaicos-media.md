@@ -231,7 +231,7 @@ páginas web de empresas do setor, Facebook ou LinkedIn? Venha descobrir!<br>
 
 <li> <a href="https://www.sunenergy.pt/trincapeixe-poupa-ao-aderir-as-renovaveis/" target="_blank">SunEnergy leva mais uma empresa a poupar 12mil euros anuais após aderir às renováveis</a> (SunEnergy, 06/2019)</li>
 
-<li> <a href="http://www.dc-pv.com/dc-pv-instala-1020-modulos-solares-em-armazens-da-empresa-frimarc-2/" target="_blank">DC-PV INSTALA 1020 MÓDULOS SOLARES</a> (DC-PV, 06/2019)</li>
+<li> <a href="http://www.dc-pv.com/dc-pv-instala-1020-modulos-solares-em-armazens-da-empresa-frimarc-2/" target="_blank">DC-PV instala 1020 módulos solares</a> (DC-PV, 06/2019)</li>
 
 <li> <a href="https://www.sunenergy.pt/indelague-poupa-27-mil-euros-por-ano-com-solucao-de-autoconsumo-sunenergy/" target="_blank">Indelague poupa 27 mil euros por ano com solução de autoconsumo SunEnergy</a> (SunEnergy, 07/2019)</li>
 
