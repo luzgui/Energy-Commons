@@ -169,7 +169,7 @@ páginas web de empresas do setor, Facebook ou LinkedIn? Venha descobrir!<br>
 
 <li> <a href="http://trilhosenergeticos.pt/news/trilhos-energeticos-da-mais-um-passo-em-direcao-ao-futuro/" target="_blank">Trilhos Energéticos dá mais um passo em direção ao futuro!</a> (Trilhos Energéticos, 07/2018)</li>
 
-<li> <a href="https://www.engenhariaeconstrucao.com/2018/07/dst-solar-vale-do-ave.html/" target="_blank">DST solar constrói três centrais fotovoltaicas no Vale do Ave</a> (Engenharia e Construção, 07/2018)</li>
+<li> <a href="https://www.engenhariaeconstrucao.com/2018/07/dst-solar-vale-do-ave.html" target="_blank">DST solar constrói três centrais fotovoltaicas no Vale do Ave</a> (Engenharia e Construção, 07/2018)</li>
 
 <li> <a href="https://www.sunenergy.pt/espaco-inovacao-em-oliveira-do-bairro-inova-com-a-ajuda-da-sunenergy/" target="_blank">Espaço Inovação inova no Autoconsumo com a ajuda da SunEnergy</a> (SunEnergy, 08/2018) </li>
 
