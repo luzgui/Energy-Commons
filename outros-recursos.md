@@ -28,16 +28,22 @@ De momento é apenas abrangido o tema do autoconsumo coletivo e comunidades ener
 <br> 
 
 <li> Webinar ERSE sobre a <a href="https://www.youtube.com/watch?v=TjNuCm4gFjM" target="_blank"> "Partilha de Energia no Autoconsumo Coletivo"</a>, 25/06/2020 (online) </li>
-<br>
+<ul><li> Link para o <a href="https://www.erse.pt/comunicacao/destaques/1%C2%BA-webinar-erse-analisou-modelos-de-partilha-de-energia-no-autoconsumo-coletivo/" target="_blank"> resumo </a></li></ul>
+
+<li> Webinar ERSE sobre a <a href="https://www.youtube.com/watch?v=o1KiRZUU5iA" target="_blank"> "O Papel das Entidades Gestoras do Autoconsumo Coletivo"</a>, 29/07/2020 (online) </li>
+<ul><li> Link para o <a href="https://www.erse.pt/media/5gfgw0lj/programa_webinar_20200729.png" target="_blank"> programa </a></li></ul>
 
 <li> Webinar Lisboa E-Nova sobre <a href="https://www.youtube.com/watch?v=q4lRIdWtT7w" target="_blank"> "Autoconsumo Coletivo e Comunidades de Energia Renovável"</a>, 23/11/2020 (online) </li>
-<br>
+<ul><li> Link para o <a href="https://oinstalador.com/Artigos/319418-Autoconsumo-coletivo-e-comunidades-de-energia-renovavel-em-debate-a-23-de-novembro.html" target="_blank"> programa </a>,
+<a href="https://lisboaenova.org/autoconsumo-coletivo-e-comunidades-de-energia-renovavel/#1606130650352-3cdf9151-ceea" target="_blank"> apresentações </a> e 
+<a href="https://www.ambientemagazine.com/especialistas-debatem-autoconsumo-coletivo-e-comunidades-de-energia-renovavel/" target="_blank"> resumo</a> 
+</li></ul>
 
 <li> Webinar FOTOPLAT sobre <a href="https://www.youtube.com/watch?v=5xS06A5mmdw" target="_blank"> "Autoconsumo compartido en el contexto urbano: ejemplos en tipologías residenciales"</a>, 10/12/2020 (online) </li>
 <br>
 
 <li> Webinar NEW R&D sobre <a href="https://www.youtube.com/watch?v=rfRm3FvAON0" target="_blank"> "As Comunidades de Energia Renovável"</a>, 10/12/2020 (online) </li>
-<br>
+<ul><li> Link para o <a href="https://www.edp.com/pt-pt/inovacao/new-rd-sessions#comunidades-energia" target="_blank"> programa </a></li></ul>
 
 <li> Webinar ERSE sobre <a href="https://www.youtube.com/watch?v=OH-QDPQrv9E" target="_blank"> "Autoconsumo Coletivo e Comunidades de Energia Renovável A caminho da concretização"</a>, 06/07/2021 (online) </li>
 <ul><li> Link para o <a href="https://www.erse.pt/media/1lnbzos3/programa_webinar_30-06-21.pdf" target="_blank"> programa </a></li></ul>
