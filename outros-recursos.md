@@ -37,6 +37,15 @@ De momento é apenas abrangido o tema do autoconsumo coletivo e comunidades ener
 <br>
 
 <li> Webinar NEW R&D sobre <a href="https://www.youtube.com/watch?v=rfRm3FvAON0" target="_blank"> As Comunidades de Energia Renovável"</a>, 10/12/2020 (online) </li>
+<br>
+
+<li> Webinar ERSE sobre <a href="https://www.youtube.com/watch?v=OH-QDPQrv9E" target="_blank"> "Autoconsumo Coletivo e Comunidades de Energia Renovável A caminho da concretização"</a>, 06/07/2021 (online) </li>
+<br>
+
+<li> Webinar EDIA sobre <a href="https://www.youtube.com/watch?v=OH-QDPQrv9E" target="_blank"> "Fotovoltaico Flutuante: Oportunidades e Desafiosconcretização"</a>, 09/07/2021 (online) </li>
+<br>
+
+“Fotovoltaico Flutuante: Oportunidades e Desafios”
 
 </ul>
 </details>
