@@ -40,12 +40,12 @@ De momento é apenas abrangido o tema do autoconsumo coletivo e comunidades ener
 <br>
 
 <li> Webinar ERSE sobre <a href="https://www.youtube.com/watch?v=OH-QDPQrv9E" target="_blank"> "Autoconsumo Coletivo e Comunidades de Energia Renovável A caminho da concretização"</a>, 06/07/2021 (online) </li>
-<ul><li> Link para o <a href="https://www.erse.pt/media/1lnbzos3/programa_webinar_30-06-21.pdf" target="_blank"> programa </a>
+<ul><li> Link para o <a href="https://www.erse.pt/media/1lnbzos3/programa_webinar_30-06-21.pdf" target="_blank"> programa </a></li></ul>
 <br>
 
 <li> Webinar EDIA sobre <a href="https://www.youtube.com/watch?v=OH-QDPQrv9E" target="_blank"> "Fotovoltaico Flutuante: Oportunidades e Desafios"</a>, 09/07/2021 (online) </li>
 <ul><li> Link para o <a href="https://vozdocampo.pt/2021/07/01/webinar-internacional-fotovoltaico-flutuante-oportunidades-e-desafios-9-julho-2021/" target="_blank"> programa </a> e 
-<a href="https://www.erse.pt/media/jjphr1b5/autoconsumo_webinar_06-07-21_pdf-carrossel.pdf" target="_blank"> apresentações </a> </li></ul>
+<a href="https://www.erse.pt/media/jjphr1b5/autoconsumo_webinar_06-07-21_pdf-carrossel.pdf" target="_blank"> apresentações </a></li></ul>
 <br>
 
 
