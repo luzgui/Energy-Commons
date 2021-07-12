@@ -25,7 +25,7 @@ De momento é apenas abrangido o tema do autoconsumo coletivo e comunidades ener
 
 <ul>
 <li> Seminário <a href="https://www.youtube.com/watch?v=TJt7GP-mCgE" target="_blank">"Como criar comunidades de energia"</a>, 04/02/2020 (Faculdade de Engenharia da Universidade do Porto).  </li> 
-<br>
+<br> 
 
 <li> Webinar ERSE sobre a <a href="https://www.youtube.com/watch?v=TjNuCm4gFjM" target="_blank"> Partilha de Energia no Autoconsumo Coletivo</a>, 25/06/2020 (online) </li>
 <br>
@@ -44,8 +44,6 @@ De momento é apenas abrangido o tema do autoconsumo coletivo e comunidades ener
 
 <li> Webinar EDIA sobre <a href="https://www.youtube.com/watch?v=OH-QDPQrv9E" target="_blank"> "Fotovoltaico Flutuante: Oportunidades e Desafiosconcretização"</a>, 09/07/2021 (online) </li>
 <br>
-
-“Fotovoltaico Flutuante: Oportunidades e Desafios”
 
 </ul>
 </details>
