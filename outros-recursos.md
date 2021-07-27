@@ -51,6 +51,10 @@ De momento é apenas abrangido o tema do autoconsumo coletivo e comunidades ener
 <li> Webinar EDIA sobre <a href="https://www.youtube.com/watch?v=DH-3-YdpIBU" target="_blank"> "Fotovoltaico Flutuante: Oportunidades e Desafios"</a>, 09/07/2021 (online) </li>
 <ul><li> Link para o <a href="https://vozdocampo.pt/2021/07/01/webinar-internacional-fotovoltaico-flutuante-oportunidades-e-desafios-9-julho-2021/" target="_blank"> programa </a> e 
 <a href="https://www.erse.pt/media/jjphr1b5/autoconsumo_webinar_06-07-21_pdf-carrossel.pdf" target="_blank"> apresentações </a></li></ul>
+
+<li> Webinar C.M. Sabugal sobre <a href="https://www.facebook.com/sabugal.concelho/videos/531706518167888" target="_blank"> "Comunidades de Energia"</a>, 26/07/2021 (online) </li>
+<ul><li> Link para o <a href="https://www.cm-sabugal.pt/conferencia-online-comunidades-de-energia/" target="_blank"> programa </a></li></ul>
+
 <br>
 
 
