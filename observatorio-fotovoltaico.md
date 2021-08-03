@@ -29,7 +29,7 @@ De momento, são analisados registos cedidos pela Direção Geral de Energia e G
 <br><br><br>
 
 ### <a href="http://energy-commons.com/biblioteca-fotovoltaico.html" target="_blank">Biblioteca do Fotovoltaico</a>
-Explore "estantes" bastante variadas, onde poderá encontrar materiais sobre leglislação e regulamentação, conteúdos media sobre o setor, artigos técnicos ou webinars.
+Explore "estantes" bastante variadas, onde poderá encontrar materiais sobre legislação e regulamentação, conteúdos media sobre o setor, artigos técnicos ou webinars.
 
 <br>
 
