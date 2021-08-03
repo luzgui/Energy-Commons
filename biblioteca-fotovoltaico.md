@@ -7,7 +7,7 @@
 
 # Biblioteca do Fotovoltaico
 
-Explore as "estantes" desta biblioteca, onde poderá encontrar materiais sobre leglislação e regulamentação, conteúdos media sobre o setor, artigos técnicos ou webinars.
+Explore as "estantes" desta biblioteca, onde poderá encontrar materiais sobre legislação e regulamentação, conteúdos media sobre o setor, artigos técnicos ou webinars.
 <br><br>
 
 ### <a href="http://energy-commons.com/legislacao-regulamentos.html" target="_blank">Legislação e regulamentos</a>
