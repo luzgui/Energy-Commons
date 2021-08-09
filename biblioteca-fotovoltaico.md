@@ -14,7 +14,7 @@ Explore as "estantes" desta biblioteca, onde poderá encontrar materiais sobre l
 Quer conhecer as leis e regulamentos que regem a produção de energia solar fotovoltaica em Portugal? Encontre aqui documentação preparada pelo Governo Português ou instituições qualificadas (DGEG, ERSE). 
 De momento é apenas considerado o tema do autoconsumo e as comunidades de Energia.
 
-### <a href="http://energy-commons.com/projetos-fotovoltaicos-media.html" target="_blank">Projetos fotovoltaicos nos *media*</a>
+### <a href="http://energy-commons.com/fotovoltaico-media.html" target="_blank">Fotovoltaicos nos *media*</a>
 Consegue imaginar a quantidade de informação sobre projetos fotovoltaicos conseguimos encontrar nos meios de comunicação tradicionais, páginas web de empresas do setor, Facebook ou LinkedIn? Venha descobrir!
 Brevemente esta secção irá incluir conteúdo relacionado com legislação ou artigos de opinião.
 
