@@ -14,8 +14,4 @@ The objective of this site is to collect references (websites, webinars, newspap
 
 Feel free to contribute by making a pull request or sending an email to `gpluz@fc.ul.pt`
 
-
-
-### [Observatório de energia solar fotovoltaica em Portugal](observatorio-fotovoltaico.md)
-
 ### [Flexibility / Demand-Side Management / Demand-Response](flexibility.md)
